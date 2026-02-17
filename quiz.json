@@ -1,227 +1,67 @@
 [
-  {
-    "pergunta": "Qual é o país com maior território do mundo?",
-    "opcoes": [
-      "Rússia",
-      "Canadá",
-      "China"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Qual planeta é conhecido como planeta vermelho?",
-    "opcoes": [
-      "Júpiter",
-      "Marte",
-      "Vênus"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Quem descobriu o Brasil em 1500?",
-    "opcoes": [
-      "Vasco da Gama",
-      "Pedro Álvares Cabral",
-      "Cristóvão Colombo"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Qual é o maior planeta do Sistema Solar?",
-    "opcoes": [
-      "Saturno",
-      "Terra",
-      "Júpiter"
-    ],
-    "correta": 2
-  },
-  {
-    "pergunta": "Quantos continentes existem no mundo?",
-    "opcoes": [
-      "6",
-      "7",
-      "5"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Qual oceano é o maior do mundo?",
-    "opcoes": [
-      "Pacífico",
-      "Atlântico",
-      "Índico"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Qual é a capital da França?",
-    "opcoes": [
-      "Paris",
-      "Roma",
-      "Londres"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Qual animal é conhecido como rei da selva?",
-    "opcoes": [
-      "Elefante",
-      "Leão",
-      "Tigre"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Quantos dias tem um ano bissexto?",
-    "opcoes": [
-      "365",
-      "366",
-      "364"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Qual é o metal cujo símbolo é Fe?",
-    "opcoes": [
-      "Ferro",
-      "Flúor",
-      "Fósforo"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Qual é o menor país do mundo?",
-    "opcoes": [
-      "Vaticano",
-      "Mônaco",
-      "Malta"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Qual gás é essencial para a respiração humana?",
-    "opcoes": [
-      "Oxigênio",
-      "Nitrogênio",
-      "Hidrogênio"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Em que país fica a Torre Eiffel?",
-    "opcoes": [
-      "Bélgica",
-      "Espanha",
-      "França"
-    ],
-    "correta": 2
-  },
-  {
-    "pergunta": "Qual é o maior mamífero do mundo?",
-    "opcoes": [
-      "Elefante",
-      "Baleia-azul",
-      "Girafa"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Qual instrumento mede a temperatura?",
-    "opcoes": [
-      "Termômetro",
-      "Barômetro",
-      "Anemômetro"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Quantas cores tem o arco-íris?",
-    "opcoes": [
-      "6",
-      "7",
-      "8"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Qual é a língua mais falada do mundo?",
-    "opcoes": [
-      "Inglês",
-      "Mandarim",
-      "Espanhol"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Qual é o maior deserto do mundo?",
-    "opcoes": [
-      "Saara",
-      "Gobi",
-      "Antártida"
-    ],
-    "correta": 2
-  },
-  {
-    "pergunta": "Quem foi o primeiro homem a pisar na Lua?",
-    "opcoes": [
-      "Neil Armstrong",
-      "Buzz Aldrin",
-      "Yuri Gagarin"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Qual é a capital do Brasil?",
-    "opcoes": [
-      "Brasília",
-      "Rio de Janeiro",
-      "São Paulo"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Quantos planetas existem no Sistema Solar?",
-    "opcoes": [
-      "7",
-      "8",
-      "9"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Qual é o maior rio do mundo em volume de água?",
-    "opcoes": [
-      "Nilo",
-      "Amazonas",
-      "Yangtzé"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Qual é o símbolo químico da água?",
-    "opcoes": [
-      "H2O",
-      "O2",
-      "CO2"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Quem escreveu Dom Casmurro?",
-    "opcoes": [
-      "Machado de Assis",
-      "José de Alencar",
-      "Clarice Lispector"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Qual país sediou a Copa do Mundo de 2014?",
-    "opcoes": [
-      "Brasil",
-      "Alemanha",
-      "África do Sul"
-    ],
-    "correta": 0
-  }
+  {"pergunta":"Qual é a capital do Brasil?","opcoes":["Brasília","Rio de Janeiro","São Paulo"],"correta":1},
+  {"pergunta":"Qual planeta é conhecido como planeta vermelho?","opcoes":["Júpiter","Marte","Vênus"],"correta":2},
+  {"pergunta":"Quantos continentes existem no mundo?","opcoes":["5","6","7"],"correta":3},
+  {"pergunta":"Qual é o maior oceano do mundo?","opcoes":["Pacífico","Atlântico","Índico"],"correta":1},
+  {"pergunta":"Quem descobriu o Brasil?","opcoes":["Pedro Álvares Cabral","Cristóvão Colombo","Vasco da Gama"],"correta":1},
+  {"pergunta":"Qual é o maior planeta do Sistema Solar?","opcoes":["Saturno","Terra","Júpiter"],"correta":3},
+  {"pergunta":"Qual é a capital da França?","opcoes":["Paris","Roma","Londres"],"correta":1},
+  {"pergunta":"Quantos dias tem um ano bissexto?","opcoes":["365","366","364"],"correta":2},
+  {"pergunta":"Qual animal é conhecido como rei da selva?","opcoes":["Elefante","Leão","Tigre"],"correta":2},
+  {"pergunta":"Qual é o símbolo químico da água?","opcoes":["H2O","O2","CO2"],"correta":1},
+
+  {"pergunta":"Qual é o maior país do mundo em território?","opcoes":["Canadá","China","Rússia"],"correta":3},
+  {"pergunta":"Qual é o menor país do mundo?","opcoes":["Vaticano","Mônaco","Malta"],"correta":1},
+  {"pergunta":"Qual gás é essencial para a respiração humana?","opcoes":["Oxigênio","Nitrogênio","Hidrogênio"],"correta":1},
+  {"pergunta":"Em que país fica a Torre Eiffel?","opcoes":["Bélgica","Espanha","França"],"correta":3},
+  {"pergunta":"Qual é o maior mamífero do mundo?","opcoes":["Elefante","Baleia-azul","Girafa"],"correta":2},
+  {"pergunta":"Qual instrumento mede a temperatura?","opcoes":["Termômetro","Barômetro","Anemômetro"],"correta":1},
+  {"pergunta":"Quantas cores tem o arco-íris?","opcoes":["6","7","8"],"correta":2},
+  {"pergunta":"Qual é a língua mais falada do mundo?","opcoes":["Inglês","Mandarim","Espanhol"],"correta":2},
+  {"pergunta":"Qual é o maior deserto do mundo?","opcoes":["Saara","Gobi","Antártida"],"correta":3},
+  {"pergunta":"Quem foi o primeiro homem a pisar na Lua?","opcoes":["Neil Armstrong","Buzz Aldrin","Yuri Gagarin"],"correta":1},
+
+  {"pergunta":"Qual é a capital do Japão?","opcoes":["Pequim","Seul","Tóquio"],"correta":3},
+  {"pergunta":"Quantos planetas existem no Sistema Solar?","opcoes":["7","8","9"],"correta":2},
+  {"pergunta":"Qual é o maior rio do mundo em volume de água?","opcoes":["Amazonas","Nilo","Yangtzé"],"correta":1},
+  {"pergunta":"Qual metal tem símbolo Fe?","opcoes":["Ferro","Flúor","Fósforo"],"correta":1},
+  {"pergunta":"Qual é a capital da Argentina?","opcoes":["Buenos Aires","Montevidéu","Santiago"],"correta":1},
+  {"pergunta":"Qual é o maior continente?","opcoes":["África","Ásia","Europa"],"correta":2},
+  {"pergunta":"Qual é a capital da Itália?","opcoes":["Veneza","Roma","Milão"],"correta":2},
+  {"pergunta":"Qual é o maior animal terrestre?","opcoes":["Rinoceronte","Elefante","Hipopótamo"],"correta":2},
+  {"pergunta":"Qual é a capital de Portugal?","opcoes":["Porto","Lisboa","Coimbra"],"correta":2},
+  {"pergunta":"Qual é o maior lago do mundo?","opcoes":["Vitória","Cáspio","Superior"],"correta":2},
+
+  {"pergunta":"Quantos lados tem um triângulo?","opcoes":["2","3","4"],"correta":2},
+  {"pergunta":"Qual é a moeda do Brasil?","opcoes":["Peso","Real","Dólar"],"correta":2},
+  {"pergunta":"Qual é o maior vulcão do mundo?","opcoes":["Etna","Mauna Loa","Vesúvio"],"correta":2},
+  {"pergunta":"Qual é o menor planeta do Sistema Solar?","opcoes":["Marte","Mercúrio","Vênus"],"correta":2},
+  {"pergunta":"Qual é a capital da Alemanha?","opcoes":["Berlim","Munique","Hamburgo"],"correta":1},
+  {"pergunta":"Qual é a capital do Canadá?","opcoes":["Toronto","Vancouver","Ottawa"],"correta":3},
+  {"pergunta":"Qual é o maior arquipélago do mundo?","opcoes":["Filipinas","Indonésia","Japão"],"correta":2},
+  {"pergunta":"Qual é a capital da Espanha?","opcoes":["Barcelona","Sevilha","Madri"],"correta":3},
+  {"pergunta":"Qual é o órgão responsável pela respiração?","opcoes":["Pulmão","Coração","Rim"],"correta":1},
+  {"pergunta":"Quantos segundos tem um minuto?","opcoes":["30","60","90"],"correta":2},
+
+  {"pergunta":"Qual é o maior animal do planeta?","opcoes":["Elefante","Tubarão-branco","Baleia-azul"],"correta":3},
+  {"pergunta":"Qual é a capital do Chile?","opcoes":["Santiago","Lima","Bogotá"],"correta":1},
+  {"pergunta":"Qual é o principal gás da atmosfera?","opcoes":["Oxigênio","Nitrogênio","Hélio"],"correta":2},
+  {"pergunta":"Qual é o número romano X?","opcoes":["5","10","50"],"correta":2},
+  {"pergunta":"Qual é o maior osso do corpo humano?","opcoes":["Fêmur","Tíbia","Úmero"],"correta":1},
+  {"pergunta":"Qual é a capital da Rússia?","opcoes":["Moscou","Kiev","São Petersburgo"],"correta":1},
+  {"pergunta":"Qual é o maior oceano em profundidade média?","opcoes":["Atlântico","Pacífico","Índico"],"correta":2},
+  {"pergunta":"Qual é a capital do México?","opcoes":["Cancún","Guadalajara","Cidade do México"],"correta":3},
+  {"pergunta":"Quantos meses tem um ano?","opcoes":["10","12","14"],"correta":2},
+  {"pergunta":"Qual é o planeta mais próximo do Sol?","opcoes":["Vênus","Mercúrio","Marte"],"correta":2},
+
+  {"pergunta":"Qual é a capital da Austrália?","opcoes":["Sydney","Melbourne","Canberra"],"correta":3},
+  {"pergunta":"Qual é o maior mar do mundo?","opcoes":["Mar Vermelho","Mar Cáspio","Mar Negro"],"correta":2},
+  {"pergunta":"Qual é a capital da Colômbia?","opcoes":["Bogotá","Medellín","Cali"],"correta":1},
+  {"pergunta":"Qual é o maior felino do mundo?","opcoes":["Leão","Tigre","Onça"],"correta":2},
+  {"pergunta":"Qual é a capital do Peru?","opcoes":["Cusco","Lima","Arequipa"],"correta":2},
+  {"pergunta":"Qual é o maior arquipélago brasileiro?","opcoes":["Fernando de Noronha","Marajó","Abrolhos"],"correta":2},
+  {"pergunta":"Qual é a capital da Noruega?","opcoes":["Oslo","Estocolmo","Helsinque"],"correta":1},
+  {"pergunta":"Quantos graus tem um ângulo reto?","opcoes":["45","90","180"],"correta":2},
+  {"pergunta":"Qual é o maior planeta rochoso?","opcoes":["Terra","Marte","Vênus"],"correta":1},
+  {"pergunta":"Qual é a capital da Índia?","opcoes":["Mumbai","Nova Délhi","Calcutá"],"correta":2}
 ]
