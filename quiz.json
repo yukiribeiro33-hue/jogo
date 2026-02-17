@@ -1,2001 +1,226 @@
 [
   {
-    "pergunta": "Qual é a capital de Brasil?",
+    "pergunta": "Qual é o país com maior território do mundo?",
+    "opcoes": [
+      "Rússia",
+      "Canadá",
+      "China"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Qual planeta é conhecido como planeta vermelho?",
+    "opcoes": [
+      "Júpiter",
+      "Marte",
+      "Vênus"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Quem descobriu o Brasil em 1500?",
+    "opcoes": [
+      "Vasco da Gama",
+      "Pedro Álvares Cabral",
+      "Cristóvão Colombo"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual é o maior planeta do Sistema Solar?",
+    "opcoes": [
+      "Saturno",
+      "Terra",
+      "Júpiter"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Quantos continentes existem no mundo?",
+    "opcoes": [
+      "6",
+      "7",
+      "5"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual oceano é o maior do mundo?",
+    "opcoes": [
+      "Pacífico",
+      "Atlântico",
+      "Índico"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Qual é a capital da França?",
+    "opcoes": [
+      "Paris",
+      "Roma",
+      "Londres"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Qual animal é conhecido como rei da selva?",
+    "opcoes": [
+      "Elefante",
+      "Leão",
+      "Tigre"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Quantos dias tem um ano bissexto?",
+    "opcoes": [
+      "365",
+      "366",
+      "364"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual é o metal cujo símbolo é Fe?",
+    "opcoes": [
+      "Ferro",
+      "Flúor",
+      "Fósforo"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Qual é o menor país do mundo?",
+    "opcoes": [
+      "Vaticano",
+      "Mônaco",
+      "Malta"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Qual gás é essencial para a respiração humana?",
+    "opcoes": [
+      "Oxigênio",
+      "Nitrogênio",
+      "Hidrogênio"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Em que país fica a Torre Eiffel?",
+    "opcoes": [
+      "Bélgica",
+      "Espanha",
+      "França"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual é o maior mamífero do mundo?",
+    "opcoes": [
+      "Elefante",
+      "Baleia-azul",
+      "Girafa"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual instrumento mede a temperatura?",
+    "opcoes": [
+      "Termômetro",
+      "Barômetro",
+      "Anemômetro"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Quantas cores tem o arco-íris?",
+    "opcoes": [
+      "6",
+      "7",
+      "8"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual é a língua mais falada do mundo?",
+    "opcoes": [
+      "Inglês",
+      "Mandarim",
+      "Espanhol"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual é o maior deserto do mundo?",
+    "opcoes": [
+      "Saara",
+      "Gobi",
+      "Antártida"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Quem foi o primeiro homem a pisar na Lua?",
+    "opcoes": [
+      "Neil Armstrong",
+      "Buzz Aldrin",
+      "Yuri Gagarin"
+    ],
+    "correta": 0
+  },
+  {
+    "pergunta": "Qual é a capital do Brasil?",
     "opcoes": [
       "Brasília",
-      "Lisboa",
-      "Paris",
-      "Berlim"
+      "Rio de Janeiro",
+      "São Paulo"
     ],
     "correta": 0
   },
   {
-    "pergunta": "Qual é a capital de Argentina?",
+    "pergunta": "Quantos planetas existem no Sistema Solar?",
     "opcoes": [
-      "Buenos Aires",
-      "Oslo",
-      "Paris",
-      "Madri"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Qual é a capital de Chile?",
-    "opcoes": [
-      "Santiago",
-      "Paris",
-      "Viena",
-      "Oslo"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Qual é a capital de Peru?",
-    "opcoes": [
-      "Viena",
-      "Paris",
-      "Lima",
-      "Lisboa"
-    ],
-    "correta": 2
-  },
-  {
-    "pergunta": "Qual é a capital de Itália?",
-    "opcoes": [
-      "Lisboa",
-      "Paris",
-      "Roma",
-      "Berlim"
-    ],
-    "correta": 2
-  },
-  {
-    "pergunta": "Qual é a capital de Espanha?",
-    "opcoes": [
-      "Paris",
-      "Oslo",
-      "Roma",
-      "Madri"
-    ],
-    "correta": 3
-  },
-  {
-    "pergunta": "Qual é a capital de Portugal?",
-    "opcoes": [
-      "Oslo",
-      "Viena",
-      "Lisboa",
-      "Roma"
-    ],
-    "correta": 2
-  },
-  {
-    "pergunta": "Qual é a capital de Alemanha?",
-    "opcoes": [
-      "Berlim",
-      "Viena",
-      "Madri",
-      "Lisboa"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Qual é a capital de França?",
-    "opcoes": [
-      "Paris",
-      "Viena",
-      "Madri",
-      "Oslo"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Qual é a capital de Canadá?",
-    "opcoes": [
-      "Viena",
-      "Ottawa",
-      "Berlim",
-      "Paris"
+      "7",
+      "8",
+      "9"
     ],
     "correta": 1
   },
   {
-    "pergunta": "Qual é a capital de Japão?",
+    "pergunta": "Qual é o maior rio do mundo em volume de água?",
     "opcoes": [
-      "Tóquio",
-      "Lisboa",
-      "Oslo",
-      "Berlim"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Qual é a capital de China?",
-    "opcoes": [
-      "Pequim",
-      "Roma",
-      "Viena",
-      "Oslo"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Qual é a capital de Austrália?",
-    "opcoes": [
-      "Paris",
-      "Berlim",
-      "Madri",
-      "Canberra"
-    ],
-    "correta": 3
-  },
-  {
-    "pergunta": "Qual é a capital de Noruega?",
-    "opcoes": [
-      "Oslo",
-      "Lisboa",
-      "Viena",
-      "Berlim"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Qual é a capital de Suécia?",
-    "opcoes": [
-      "Estocolmo",
-      "Oslo",
-      "Paris",
-      "Roma"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Qual é a capital de Finlândia?",
-    "opcoes": [
-      "Helsinque",
-      "Madri",
-      "Oslo",
-      "Berlim"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Qual é a capital de Áustria?",
-    "opcoes": [
-      "Roma",
-      "Viena",
-      "Lisboa",
-      "Madri"
+      "Nilo",
+      "Amazonas",
+      "Yangtzé"
     ],
     "correta": 1
   },
   {
-    "pergunta": "Qual é a capital de Bélgica?",
+    "pergunta": "Qual é o símbolo químico da água?",
     "opcoes": [
-      "Oslo",
-      "Bruxelas",
-      "Paris",
-      "Madri"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Qual é a capital de Irlanda?",
-    "opcoes": [
-      "Dublin",
-      "Viena",
-      "Madri",
-      "Berlim"
+      "H2O",
+      "O2",
+      "CO2"
     ],
     "correta": 0
   },
   {
-    "pergunta": "Qual é a capital de Suíça?",
+    "pergunta": "Quem escreveu Dom Casmurro?",
     "opcoes": [
-      "Berlim",
-      "Madri",
-      "Paris",
-      "Berna"
-    ],
-    "correta": 3
-  },
-  {
-    "pergunta": "Quanto é 5 + 7?",
-    "opcoes": [
-      11,
-      12,
-      14,
-      13
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Quanto é 8 + 6?",
-    "opcoes": [
-      14,
-      16,
-      13,
-      15
+      "Machado de Assis",
+      "José de Alencar",
+      "Clarice Lispector"
     ],
     "correta": 0
   },
   {
-    "pergunta": "Quanto é 12 + 9?",
-    "opcoes": [
-      23,
-      21,
-      20,
-      22
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Quanto é 14 + 6?",
-    "opcoes": [
-      20,
-      19,
-      22,
-      21
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Quanto é 9 x 8?",
-    "opcoes": [
-      70,
-      74,
-      76,
-      72
-    ],
-    "correta": 3
-  },
-  {
-    "pergunta": "Quanto é 7 x 6?",
-    "opcoes": [
-      40,
-      44,
-      42,
-      46
-    ],
-    "correta": 2
-  },
-  {
-    "pergunta": "Quanto é 12 x 5?",
-    "opcoes": [
-      58,
-      64,
-      62,
-      60
-    ],
-    "correta": 3
-  },
-  {
-    "pergunta": "Quanto é 8 x 7?",
-    "opcoes": [
-      58,
-      54,
-      60,
-      56
-    ],
-    "correta": 3
-  },
-  {
-    "pergunta": "Quanto é 100 ÷ 4?",
-    "opcoes": [
-      27,
-      25,
-      26,
-      24
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Quanto é 81 ÷ 9?",
-    "opcoes": [
-      9,
-      10,
-      8,
-      11
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Quanto é 144 ÷ 12?",
-    "opcoes": [
-      14,
-      12,
-      11,
-      13
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Quanto é 72 ÷ 8?",
-    "opcoes": [
-      9,
-      8,
-      10,
-      11
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 1?",
-    "opcoes": [
-      "Opção A1",
-      "Opção B1",
-      "Opção C1",
-      "Opção D1"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 2?",
-    "opcoes": [
-      "Opção A2",
-      "Opção B2",
-      "Opção C2",
-      "Opção D2"
-    ],
-    "correta": 2
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 3?",
-    "opcoes": [
-      "Opção A3",
-      "Opção B3",
-      "Opção C3",
-      "Opção D3"
-    ],
-    "correta": 3
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 4?",
-    "opcoes": [
-      "Opção A4",
-      "Opção B4",
-      "Opção C4",
-      "Opção D4"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 5?",
-    "opcoes": [
-      "Opção A5",
-      "Opção B5",
-      "Opção C5",
-      "Opção D5"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 6?",
-    "opcoes": [
-      "Opção A6",
-      "Opção B6",
-      "Opção C6",
-      "Opção D6"
-    ],
-    "correta": 2
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 7?",
-    "opcoes": [
-      "Opção A7",
-      "Opção B7",
-      "Opção C7",
-      "Opção D7"
-    ],
-    "correta": 3
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 8?",
-    "opcoes": [
-      "Opção A8",
-      "Opção B8",
-      "Opção C8",
-      "Opção D8"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 9?",
-    "opcoes": [
-      "Opção A9",
-      "Opção B9",
-      "Opção C9",
-      "Opção D9"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 10?",
-    "opcoes": [
-      "Opção A10",
-      "Opção B10",
-      "Opção C10",
-      "Opção D10"
-    ],
-    "correta": 2
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 11?",
-    "opcoes": [
-      "Opção A11",
-      "Opção B11",
-      "Opção C11",
-      "Opção D11"
-    ],
-    "correta": 3
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 12?",
-    "opcoes": [
-      "Opção A12",
-      "Opção B12",
-      "Opção C12",
-      "Opção D12"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 13?",
-    "opcoes": [
-      "Opção A13",
-      "Opção B13",
-      "Opção C13",
-      "Opção D13"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 14?",
-    "opcoes": [
-      "Opção A14",
-      "Opção B14",
-      "Opção C14",
-      "Opção D14"
-    ],
-    "correta": 2
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 15?",
-    "opcoes": [
-      "Opção A15",
-      "Opção B15",
-      "Opção C15",
-      "Opção D15"
-    ],
-    "correta": 3
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 16?",
-    "opcoes": [
-      "Opção A16",
-      "Opção B16",
-      "Opção C16",
-      "Opção D16"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 17?",
-    "opcoes": [
-      "Opção A17",
-      "Opção B17",
-      "Opção C17",
-      "Opção D17"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 18?",
-    "opcoes": [
-      "Opção A18",
-      "Opção B18",
-      "Opção C18",
-      "Opção D18"
-    ],
-    "correta": 2
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 19?",
-    "opcoes": [
-      "Opção A19",
-      "Opção B19",
-      "Opção C19",
-      "Opção D19"
-    ],
-    "correta": 3
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 20?",
-    "opcoes": [
-      "Opção A20",
-      "Opção B20",
-      "Opção C20",
-      "Opção D20"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 21?",
-    "opcoes": [
-      "Opção A21",
-      "Opção B21",
-      "Opção C21",
-      "Opção D21"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 22?",
-    "opcoes": [
-      "Opção A22",
-      "Opção B22",
-      "Opção C22",
-      "Opção D22"
-    ],
-    "correta": 2
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 23?",
-    "opcoes": [
-      "Opção A23",
-      "Opção B23",
-      "Opção C23",
-      "Opção D23"
-    ],
-    "correta": 3
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 24?",
-    "opcoes": [
-      "Opção A24",
-      "Opção B24",
-      "Opção C24",
-      "Opção D24"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 25?",
-    "opcoes": [
-      "Opção A25",
-      "Opção B25",
-      "Opção C25",
-      "Opção D25"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 26?",
-    "opcoes": [
-      "Opção A26",
-      "Opção B26",
-      "Opção C26",
-      "Opção D26"
-    ],
-    "correta": 2
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 27?",
-    "opcoes": [
-      "Opção A27",
-      "Opção B27",
-      "Opção C27",
-      "Opção D27"
-    ],
-    "correta": 3
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 28?",
-    "opcoes": [
-      "Opção A28",
-      "Opção B28",
-      "Opção C28",
-      "Opção D28"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 29?",
-    "opcoes": [
-      "Opção A29",
-      "Opção B29",
-      "Opção C29",
-      "Opção D29"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 30?",
-    "opcoes": [
-      "Opção A30",
-      "Opção B30",
-      "Opção C30",
-      "Opção D30"
-    ],
-    "correta": 2
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 31?",
-    "opcoes": [
-      "Opção A31",
-      "Opção B31",
-      "Opção C31",
-      "Opção D31"
-    ],
-    "correta": 3
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 32?",
-    "opcoes": [
-      "Opção A32",
-      "Opção B32",
-      "Opção C32",
-      "Opção D32"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 33?",
-    "opcoes": [
-      "Opção A33",
-      "Opção B33",
-      "Opção C33",
-      "Opção D33"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 34?",
-    "opcoes": [
-      "Opção A34",
-      "Opção B34",
-      "Opção C34",
-      "Opção D34"
-    ],
-    "correta": 2
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 35?",
-    "opcoes": [
-      "Opção A35",
-      "Opção B35",
-      "Opção C35",
-      "Opção D35"
-    ],
-    "correta": 3
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 36?",
-    "opcoes": [
-      "Opção A36",
-      "Opção B36",
-      "Opção C36",
-      "Opção D36"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 37?",
-    "opcoes": [
-      "Opção A37",
-      "Opção B37",
-      "Opção C37",
-      "Opção D37"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 38?",
-    "opcoes": [
-      "Opção A38",
-      "Opção B38",
-      "Opção C38",
-      "Opção D38"
-    ],
-    "correta": 2
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 39?",
-    "opcoes": [
-      "Opção A39",
-      "Opção B39",
-      "Opção C39",
-      "Opção D39"
-    ],
-    "correta": 3
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 40?",
-    "opcoes": [
-      "Opção A40",
-      "Opção B40",
-      "Opção C40",
-      "Opção D40"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 41?",
-    "opcoes": [
-      "Opção A41",
-      "Opção B41",
-      "Opção C41",
-      "Opção D41"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 42?",
-    "opcoes": [
-      "Opção A42",
-      "Opção B42",
-      "Opção C42",
-      "Opção D42"
-    ],
-    "correta": 2
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 43?",
-    "opcoes": [
-      "Opção A43",
-      "Opção B43",
-      "Opção C43",
-      "Opção D43"
-    ],
-    "correta": 3
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 44?",
-    "opcoes": [
-      "Opção A44",
-      "Opção B44",
-      "Opção C44",
-      "Opção D44"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 45?",
-    "opcoes": [
-      "Opção A45",
-      "Opção B45",
-      "Opção C45",
-      "Opção D45"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 46?",
-    "opcoes": [
-      "Opção A46",
-      "Opção B46",
-      "Opção C46",
-      "Opção D46"
-    ],
-    "correta": 2
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 47?",
-    "opcoes": [
-      "Opção A47",
-      "Opção B47",
-      "Opção C47",
-      "Opção D47"
-    ],
-    "correta": 3
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 48?",
-    "opcoes": [
-      "Opção A48",
-      "Opção B48",
-      "Opção C48",
-      "Opção D48"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 49?",
-    "opcoes": [
-      "Opção A49",
-      "Opção B49",
-      "Opção C49",
-      "Opção D49"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 50?",
-    "opcoes": [
-      "Opção A50",
-      "Opção B50",
-      "Opção C50",
-      "Opção D50"
-    ],
-    "correta": 2
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 51?",
-    "opcoes": [
-      "Opção A51",
-      "Opção B51",
-      "Opção C51",
-      "Opção D51"
-    ],
-    "correta": 3
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 52?",
-    "opcoes": [
-      "Opção A52",
-      "Opção B52",
-      "Opção C52",
-      "Opção D52"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 53?",
-    "opcoes": [
-      "Opção A53",
-      "Opção B53",
-      "Opção C53",
-      "Opção D53"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 54?",
-    "opcoes": [
-      "Opção A54",
-      "Opção B54",
-      "Opção C54",
-      "Opção D54"
-    ],
-    "correta": 2
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 55?",
-    "opcoes": [
-      "Opção A55",
-      "Opção B55",
-      "Opção C55",
-      "Opção D55"
-    ],
-    "correta": 3
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 56?",
-    "opcoes": [
-      "Opção A56",
-      "Opção B56",
-      "Opção C56",
-      "Opção D56"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 57?",
-    "opcoes": [
-      "Opção A57",
-      "Opção B57",
-      "Opção C57",
-      "Opção D57"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 58?",
-    "opcoes": [
-      "Opção A58",
-      "Opção B58",
-      "Opção C58",
-      "Opção D58"
-    ],
-    "correta": 2
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 59?",
-    "opcoes": [
-      "Opção A59",
-      "Opção B59",
-      "Opção C59",
-      "Opção D59"
-    ],
-    "correta": 3
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 60?",
-    "opcoes": [
-      "Opção A60",
-      "Opção B60",
-      "Opção C60",
-      "Opção D60"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 61?",
-    "opcoes": [
-      "Opção A61",
-      "Opção B61",
-      "Opção C61",
-      "Opção D61"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 62?",
-    "opcoes": [
-      "Opção A62",
-      "Opção B62",
-      "Opção C62",
-      "Opção D62"
-    ],
-    "correta": 2
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 63?",
-    "opcoes": [
-      "Opção A63",
-      "Opção B63",
-      "Opção C63",
-      "Opção D63"
-    ],
-    "correta": 3
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 64?",
-    "opcoes": [
-      "Opção A64",
-      "Opção B64",
-      "Opção C64",
-      "Opção D64"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 65?",
-    "opcoes": [
-      "Opção A65",
-      "Opção B65",
-      "Opção C65",
-      "Opção D65"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 66?",
-    "opcoes": [
-      "Opção A66",
-      "Opção B66",
-      "Opção C66",
-      "Opção D66"
-    ],
-    "correta": 2
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 67?",
-    "opcoes": [
-      "Opção A67",
-      "Opção B67",
-      "Opção C67",
-      "Opção D67"
-    ],
-    "correta": 3
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 68?",
-    "opcoes": [
-      "Opção A68",
-      "Opção B68",
-      "Opção C68",
-      "Opção D68"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 69?",
-    "opcoes": [
-      "Opção A69",
-      "Opção B69",
-      "Opção C69",
-      "Opção D69"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 70?",
-    "opcoes": [
-      "Opção A70",
-      "Opção B70",
-      "Opção C70",
-      "Opção D70"
-    ],
-    "correta": 2
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 71?",
-    "opcoes": [
-      "Opção A71",
-      "Opção B71",
-      "Opção C71",
-      "Opção D71"
-    ],
-    "correta": 3
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 72?",
-    "opcoes": [
-      "Opção A72",
-      "Opção B72",
-      "Opção C72",
-      "Opção D72"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 73?",
-    "opcoes": [
-      "Opção A73",
-      "Opção B73",
-      "Opção C73",
-      "Opção D73"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 74?",
-    "opcoes": [
-      "Opção A74",
-      "Opção B74",
-      "Opção C74",
-      "Opção D74"
-    ],
-    "correta": 2
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 75?",
-    "opcoes": [
-      "Opção A75",
-      "Opção B75",
-      "Opção C75",
-      "Opção D75"
-    ],
-    "correta": 3
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 76?",
-    "opcoes": [
-      "Opção A76",
-      "Opção B76",
-      "Opção C76",
-      "Opção D76"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 77?",
-    "opcoes": [
-      "Opção A77",
-      "Opção B77",
-      "Opção C77",
-      "Opção D77"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 78?",
-    "opcoes": [
-      "Opção A78",
-      "Opção B78",
-      "Opção C78",
-      "Opção D78"
-    ],
-    "correta": 2
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 79?",
-    "opcoes": [
-      "Opção A79",
-      "Opção B79",
-      "Opção C79",
-      "Opção D79"
-    ],
-    "correta": 3
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 80?",
-    "opcoes": [
-      "Opção A80",
-      "Opção B80",
-      "Opção C80",
-      "Opção D80"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 81?",
-    "opcoes": [
-      "Opção A81",
-      "Opção B81",
-      "Opção C81",
-      "Opção D81"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 82?",
-    "opcoes": [
-      "Opção A82",
-      "Opção B82",
-      "Opção C82",
-      "Opção D82"
-    ],
-    "correta": 2
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 83?",
-    "opcoes": [
-      "Opção A83",
-      "Opção B83",
-      "Opção C83",
-      "Opção D83"
-    ],
-    "correta": 3
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 84?",
-    "opcoes": [
-      "Opção A84",
-      "Opção B84",
-      "Opção C84",
-      "Opção D84"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 85?",
-    "opcoes": [
-      "Opção A85",
-      "Opção B85",
-      "Opção C85",
-      "Opção D85"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 86?",
-    "opcoes": [
-      "Opção A86",
-      "Opção B86",
-      "Opção C86",
-      "Opção D86"
-    ],
-    "correta": 2
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 87?",
-    "opcoes": [
-      "Opção A87",
-      "Opção B87",
-      "Opção C87",
-      "Opção D87"
-    ],
-    "correta": 3
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 88?",
-    "opcoes": [
-      "Opção A88",
-      "Opção B88",
-      "Opção C88",
-      "Opção D88"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 89?",
-    "opcoes": [
-      "Opção A89",
-      "Opção B89",
-      "Opção C89",
-      "Opção D89"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 90?",
-    "opcoes": [
-      "Opção A90",
-      "Opção B90",
-      "Opção C90",
-      "Opção D90"
-    ],
-    "correta": 2
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 91?",
-    "opcoes": [
-      "Opção A91",
-      "Opção B91",
-      "Opção C91",
-      "Opção D91"
-    ],
-    "correta": 3
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 92?",
-    "opcoes": [
-      "Opção A92",
-      "Opção B92",
-      "Opção C92",
-      "Opção D92"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 93?",
-    "opcoes": [
-      "Opção A93",
-      "Opção B93",
-      "Opção C93",
-      "Opção D93"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 94?",
-    "opcoes": [
-      "Opção A94",
-      "Opção B94",
-      "Opção C94",
-      "Opção D94"
-    ],
-    "correta": 2
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 95?",
-    "opcoes": [
-      "Opção A95",
-      "Opção B95",
-      "Opção C95",
-      "Opção D95"
-    ],
-    "correta": 3
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 96?",
-    "opcoes": [
-      "Opção A96",
-      "Opção B96",
-      "Opção C96",
-      "Opção D96"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 97?",
-    "opcoes": [
-      "Opção A97",
-      "Opção B97",
-      "Opção C97",
-      "Opção D97"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 98?",
-    "opcoes": [
-      "Opção A98",
-      "Opção B98",
-      "Opção C98",
-      "Opção D98"
-    ],
-    "correta": 2
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 99?",
-    "opcoes": [
-      "Opção A99",
-      "Opção B99",
-      "Opção C99",
-      "Opção D99"
-    ],
-    "correta": 3
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 100?",
-    "opcoes": [
-      "Opção A100",
-      "Opção B100",
-      "Opção C100",
-      "Opção D100"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 101?",
-    "opcoes": [
-      "Opção A101",
-      "Opção B101",
-      "Opção C101",
-      "Opção D101"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 102?",
-    "opcoes": [
-      "Opção A102",
-      "Opção B102",
-      "Opção C102",
-      "Opção D102"
-    ],
-    "correta": 2
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 103?",
-    "opcoes": [
-      "Opção A103",
-      "Opção B103",
-      "Opção C103",
-      "Opção D103"
-    ],
-    "correta": 3
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 104?",
-    "opcoes": [
-      "Opção A104",
-      "Opção B104",
-      "Opção C104",
-      "Opção D104"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 105?",
-    "opcoes": [
-      "Opção A105",
-      "Opção B105",
-      "Opção C105",
-      "Opção D105"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 106?",
-    "opcoes": [
-      "Opção A106",
-      "Opção B106",
-      "Opção C106",
-      "Opção D106"
-    ],
-    "correta": 2
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 107?",
-    "opcoes": [
-      "Opção A107",
-      "Opção B107",
-      "Opção C107",
-      "Opção D107"
-    ],
-    "correta": 3
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 108?",
-    "opcoes": [
-      "Opção A108",
-      "Opção B108",
-      "Opção C108",
-      "Opção D108"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 109?",
-    "opcoes": [
-      "Opção A109",
-      "Opção B109",
-      "Opção C109",
-      "Opção D109"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 110?",
-    "opcoes": [
-      "Opção A110",
-      "Opção B110",
-      "Opção C110",
-      "Opção D110"
-    ],
-    "correta": 2
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 111?",
-    "opcoes": [
-      "Opção A111",
-      "Opção B111",
-      "Opção C111",
-      "Opção D111"
-    ],
-    "correta": 3
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 112?",
-    "opcoes": [
-      "Opção A112",
-      "Opção B112",
-      "Opção C112",
-      "Opção D112"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 113?",
-    "opcoes": [
-      "Opção A113",
-      "Opção B113",
-      "Opção C113",
-      "Opção D113"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 114?",
-    "opcoes": [
-      "Opção A114",
-      "Opção B114",
-      "Opção C114",
-      "Opção D114"
-    ],
-    "correta": 2
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 115?",
-    "opcoes": [
-      "Opção A115",
-      "Opção B115",
-      "Opção C115",
-      "Opção D115"
-    ],
-    "correta": 3
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 116?",
-    "opcoes": [
-      "Opção A116",
-      "Opção B116",
-      "Opção C116",
-      "Opção D116"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 117?",
-    "opcoes": [
-      "Opção A117",
-      "Opção B117",
-      "Opção C117",
-      "Opção D117"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 118?",
-    "opcoes": [
-      "Opção A118",
-      "Opção B118",
-      "Opção C118",
-      "Opção D118"
-    ],
-    "correta": 2
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 119?",
-    "opcoes": [
-      "Opção A119",
-      "Opção B119",
-      "Opção C119",
-      "Opção D119"
-    ],
-    "correta": 3
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 120?",
-    "opcoes": [
-      "Opção A120",
-      "Opção B120",
-      "Opção C120",
-      "Opção D120"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 121?",
-    "opcoes": [
-      "Opção A121",
-      "Opção B121",
-      "Opção C121",
-      "Opção D121"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 122?",
-    "opcoes": [
-      "Opção A122",
-      "Opção B122",
-      "Opção C122",
-      "Opção D122"
-    ],
-    "correta": 2
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 123?",
-    "opcoes": [
-      "Opção A123",
-      "Opção B123",
-      "Opção C123",
-      "Opção D123"
-    ],
-    "correta": 3
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 124?",
-    "opcoes": [
-      "Opção A124",
-      "Opção B124",
-      "Opção C124",
-      "Opção D124"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 125?",
-    "opcoes": [
-      "Opção A125",
-      "Opção B125",
-      "Opção C125",
-      "Opção D125"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 126?",
-    "opcoes": [
-      "Opção A126",
-      "Opção B126",
-      "Opção C126",
-      "Opção D126"
-    ],
-    "correta": 2
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 127?",
-    "opcoes": [
-      "Opção A127",
-      "Opção B127",
-      "Opção C127",
-      "Opção D127"
-    ],
-    "correta": 3
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 128?",
-    "opcoes": [
-      "Opção A128",
-      "Opção B128",
-      "Opção C128",
-      "Opção D128"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 129?",
-    "opcoes": [
-      "Opção A129",
-      "Opção B129",
-      "Opção C129",
-      "Opção D129"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 130?",
-    "opcoes": [
-      "Opção A130",
-      "Opção B130",
-      "Opção C130",
-      "Opção D130"
-    ],
-    "correta": 2
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 131?",
-    "opcoes": [
-      "Opção A131",
-      "Opção B131",
-      "Opção C131",
-      "Opção D131"
-    ],
-    "correta": 3
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 132?",
-    "opcoes": [
-      "Opção A132",
-      "Opção B132",
-      "Opção C132",
-      "Opção D132"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 133?",
-    "opcoes": [
-      "Opção A133",
-      "Opção B133",
-      "Opção C133",
-      "Opção D133"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 134?",
-    "opcoes": [
-      "Opção A134",
-      "Opção B134",
-      "Opção C134",
-      "Opção D134"
-    ],
-    "correta": 2
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 135?",
-    "opcoes": [
-      "Opção A135",
-      "Opção B135",
-      "Opção C135",
-      "Opção D135"
-    ],
-    "correta": 3
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 136?",
-    "opcoes": [
-      "Opção A136",
-      "Opção B136",
-      "Opção C136",
-      "Opção D136"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 137?",
-    "opcoes": [
-      "Opção A137",
-      "Opção B137",
-      "Opção C137",
-      "Opção D137"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 138?",
-    "opcoes": [
-      "Opção A138",
-      "Opção B138",
-      "Opção C138",
-      "Opção D138"
-    ],
-    "correta": 2
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 139?",
-    "opcoes": [
-      "Opção A139",
-      "Opção B139",
-      "Opção C139",
-      "Opção D139"
-    ],
-    "correta": 3
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 140?",
-    "opcoes": [
-      "Opção A140",
-      "Opção B140",
-      "Opção C140",
-      "Opção D140"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 141?",
-    "opcoes": [
-      "Opção A141",
-      "Opção B141",
-      "Opção C141",
-      "Opção D141"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 142?",
-    "opcoes": [
-      "Opção A142",
-      "Opção B142",
-      "Opção C142",
-      "Opção D142"
-    ],
-    "correta": 2
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 143?",
-    "opcoes": [
-      "Opção A143",
-      "Opção B143",
-      "Opção C143",
-      "Opção D143"
-    ],
-    "correta": 3
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 144?",
-    "opcoes": [
-      "Opção A144",
-      "Opção B144",
-      "Opção C144",
-      "Opção D144"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 145?",
-    "opcoes": [
-      "Opção A145",
-      "Opção B145",
-      "Opção C145",
-      "Opção D145"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 146?",
-    "opcoes": [
-      "Opção A146",
-      "Opção B146",
-      "Opção C146",
-      "Opção D146"
-    ],
-    "correta": 2
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 147?",
-    "opcoes": [
-      "Opção A147",
-      "Opção B147",
-      "Opção C147",
-      "Opção D147"
-    ],
-    "correta": 3
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 148?",
-    "opcoes": [
-      "Opção A148",
-      "Opção B148",
-      "Opção C148",
-      "Opção D148"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 149?",
-    "opcoes": [
-      "Opção A149",
-      "Opção B149",
-      "Opção C149",
-      "Opção D149"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 150?",
-    "opcoes": [
-      "Opção A150",
-      "Opção B150",
-      "Opção C150",
-      "Opção D150"
-    ],
-    "correta": 2
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 151?",
-    "opcoes": [
-      "Opção A151",
-      "Opção B151",
-      "Opção C151",
-      "Opção D151"
-    ],
-    "correta": 3
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 152?",
-    "opcoes": [
-      "Opção A152",
-      "Opção B152",
-      "Opção C152",
-      "Opção D152"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 153?",
-    "opcoes": [
-      "Opção A153",
-      "Opção B153",
-      "Opção C153",
-      "Opção D153"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 154?",
-    "opcoes": [
-      "Opção A154",
-      "Opção B154",
-      "Opção C154",
-      "Opção D154"
-    ],
-    "correta": 2
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 155?",
-    "opcoes": [
-      "Opção A155",
-      "Opção B155",
-      "Opção C155",
-      "Opção D155"
-    ],
-    "correta": 3
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 156?",
-    "opcoes": [
-      "Opção A156",
-      "Opção B156",
-      "Opção C156",
-      "Opção D156"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 157?",
-    "opcoes": [
-      "Opção A157",
-      "Opção B157",
-      "Opção C157",
-      "Opção D157"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 158?",
-    "opcoes": [
-      "Opção A158",
-      "Opção B158",
-      "Opção C158",
-      "Opção D158"
-    ],
-    "correta": 2
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 159?",
-    "opcoes": [
-      "Opção A159",
-      "Opção B159",
-      "Opção C159",
-      "Opção D159"
-    ],
-    "correta": 3
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 160?",
-    "opcoes": [
-      "Opção A160",
-      "Opção B160",
-      "Opção C160",
-      "Opção D160"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 161?",
-    "opcoes": [
-      "Opção A161",
-      "Opção B161",
-      "Opção C161",
-      "Opção D161"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 162?",
-    "opcoes": [
-      "Opção A162",
-      "Opção B162",
-      "Opção C162",
-      "Opção D162"
-    ],
-    "correta": 2
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 163?",
-    "opcoes": [
-      "Opção A163",
-      "Opção B163",
-      "Opção C163",
-      "Opção D163"
-    ],
-    "correta": 3
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 164?",
-    "opcoes": [
-      "Opção A164",
-      "Opção B164",
-      "Opção C164",
-      "Opção D164"
-    ],
-    "correta": 0
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 165?",
-    "opcoes": [
-      "Opção A165",
-      "Opção B165",
-      "Opção C165",
-      "Opção D165"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 166?",
-    "opcoes": [
-      "Opção A166",
-      "Opção B166",
-      "Opção C166",
-      "Opção D166"
-    ],
-    "correta": 2
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 167?",
-    "opcoes": [
-      "Opção A167",
-      "Opção B167",
-      "Opção C167",
-      "Opção D167"
-    ],
-    "correta": 3
-  },
-  {
-    "pergunta": "Pergunta de conhecimento geral número 168?",
-    "opcoes": [
-      "Opção A168",
-      "Opção B168",
-      "Opção C168",
-      "Opção D168"
+    "pergunta": "Qual país sediou a Copa do Mundo de 2014?",
+    "opcoes": [
+      "Brasil",
+      "Alemanha",
+      "África do Sul"
     ],
     "correta": 0
   }
