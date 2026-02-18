@@ -1,7 +1,7 @@
 [
   {"pergunta":"Qual é a capital do Brasil?","opcoes":["Brasília","Rio de Janeiro","São Paulo"],"correta":1},
   {"pergunta":"Qual planeta é conhecido como planeta vermelho?","opcoes":["Júpiter","Marte","Vênus"],"correta":2},
-  {"pergunta":"Quantos continentes existem no mundo?","opcoes":["5","6","7"],"correta":3},
+  {"pergunta":"Quantos continentes existem no mundo?","opcoes":["5","6","7"],"correta":1},
   {"pergunta":"Qual é o maior oceano do mundo?","opcoes":["Pacífico","Atlântico","Índico"],"correta":1},
   {"pergunta":"Quem descobriu o Brasil?","opcoes":["Pedro Álvares Cabral","Cristóvão Colombo","Vasco da Gama"],"correta":1},
   {"pergunta":"Qual é o maior planeta do Sistema Solar?","opcoes":["Saturno","Terra","Júpiter"],"correta":3},
@@ -65,3 +65,4 @@
   {"pergunta":"Qual é o maior planeta rochoso?","opcoes":["Terra","Marte","Vênus"],"correta":1},
   {"pergunta":"Qual é a capital da Índia?","opcoes":["Mumbai","Nova Délhi","Calcutá"],"correta":2}
 ]
+
