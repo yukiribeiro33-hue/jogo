@@ -1,126 +1,1001 @@
- [
-   {"pergunta":"quem foi o gênio que criou esse jogo?","opcoes":["yan","abraâo","mirelly"],"correta":2},
-{"pergunta":"Qual é a capital do Brasil?","opcoes":["Brasília","Rio de Janeiro","São Paulo"],"correta":1},
-  {"pergunta":"Qual planeta é conhecido como planeta vermelho?","opcoes":["Júpiter","Marte","Vênus"],"correta":2},
-  {"pergunta":"Quantos continentes existem no mundo?","opcoes":["5","6","7"],"correta":1},
-  {"pergunta":"Qual é o maior oceano do mundo?","opcoes":["Pacífico","Atlântico","Índico"],"correta":1},
-  {"pergunta":"Quem descobriu o Brasil?","opcoes":["Pedro Álvares Cabral","Cristóvão Colombo","Vasco da Gama"],"correta":1},
-  {"pergunta":"Qual é o maior planeta do Sistema Solar?","opcoes":["Saturno","Terra","Júpiter"],"correta":3},
-  {"pergunta":"Qual é a capital da França?","opcoes":["Paris","Roma","Londres"],"correta":1},
-  {"pergunta":"Quantos dias tem um ano bissexto?","opcoes":["365","366","364"],"correta":2},
-  {"pergunta":"Qual animal é conhecido como rei da selva?","opcoes":["Elefante","Leão","Tigre"],"correta":2},
-  {"pergunta":"Qual é o símbolo químico da água?","opcoes":["H2O","O2","CO2"],"correta":1},
-
-  {"pergunta":"Qual é o maior país do mundo em território?","opcoes":["Canadá","China","Rússia"],"correta":3},
-  {"pergunta":"Qual é o menor país do mundo?","opcoes":["Vaticano","Mônaco","Malta"],"correta":1},
-  {"pergunta":"Qual gás é essencial para a respiração humana?","opcoes":["Oxigênio","Nitrogênio","Hidrogênio"],"correta":1},
-  {"pergunta":"Em que país fica a Torre Eiffel?","opcoes":["Bélgica","Espanha","França"],"correta":3},
-  {"pergunta":"Qual é o maior mamífero do mundo?","opcoes":["Elefante","Baleia-azul","Girafa"],"correta":2},
-  {"pergunta":"Qual instrumento mede a temperatura?","opcoes":["Termômetro","Barômetro","Anemômetro"],"correta":1},
-  {"pergunta":"Quantas cores tem o arco-íris?","opcoes":["6","7","8"],"correta":2},
-  {"pergunta":"Qual é a língua mais falada do mundo?","opcoes":["Inglês","Mandarim","Espanhol"],"correta":2},
-  {"pergunta":"Qual é o maior deserto do mundo?","opcoes":["Saara","Gobi","Antártida"],"correta":3},
-  {"pergunta":"Quem foi o primeiro homem a pisar na Lua?","opcoes":["Neil Armstrong","Buzz Aldrin","Yuri Gagarin"],"correta":1},
-
-  {"pergunta":"Qual é a capital do Japão?","opcoes":["Pequim","Seul","Tóquio"],"correta":3},
-  {"pergunta":"Quantos planetas existem no Sistema Solar?","opcoes":["7","8","9"],"correta":2},
-  {"pergunta":"Qual é o maior rio do mundo em volume de água?","opcoes":["Amazonas","Nilo","Yangtzé"],"correta":1},
-  {"pergunta":"Qual metal tem símbolo Fe?","opcoes":["Ferro","Flúor","Fósforo"],"correta":1},
-  {"pergunta":"Qual é a capital da Argentina?","opcoes":["Buenos Aires","Montevidéu","Santiago"],"correta":1},
-  {"pergunta":"Qual é o maior continente?","opcoes":["África","Ásia","Europa"],"correta":2},
-  {"pergunta":"Qual é a capital da Itália?","opcoes":["Veneza","Roma","Milão"],"correta":2},
-  {"pergunta":"Qual é o maior animal terrestre?","opcoes":["Rinoceronte","Elefante","Hipopótamo"],"correta":2},
-  {"pergunta":"Qual é a capital de Portugal?","opcoes":["Porto","Lisboa","Coimbra"],"correta":2},
-  {"pergunta":"Qual é o maior lago do mundo?","opcoes":["Vitória","Cáspio","Superior"],"correta":2},
-
-  {"pergunta":"Quantos lados tem um triângulo?","opcoes":["2","3","4"],"correta":2},
-  {"pergunta":"Qual é a moeda do Brasil?","opcoes":["Peso","Real","Dólar"],"correta":2},
-  {"pergunta":"Qual é o maior vulcão do mundo?","opcoes":["Etna","Mauna Loa","Vesúvio"],"correta":2},
-  {"pergunta":"Qual é o menor planeta do Sistema Solar?","opcoes":["Marte","Mercúrio","Vênus"],"correta":2},
-  {"pergunta":"Qual é a capital da Alemanha?","opcoes":["Berlim","Munique","Hamburgo"],"correta":1},
-  {"pergunta":"Qual é a capital do Canadá?","opcoes":["Toronto","Vancouver","Ottawa"],"correta":3},
-  {"pergunta":"Qual é o maior arquipélago do mundo?","opcoes":["Filipinas","Indonésia","Japão"],"correta":2},
-  {"pergunta":"Qual é a capital da Espanha?","opcoes":["Barcelona","Sevilha","Madri"],"correta":3},
-  {"pergunta":"Qual é o órgão responsável pela respiração?","opcoes":["Pulmão","Coração","Rim"],"correta":1},
-  {"pergunta":"Quantos segundos tem um minuto?","opcoes":["30","60","90"],"correta":2},
-
-  {"pergunta":"Qual é o maior animal do planeta?","opcoes":["Elefante","Tubarão-branco","Baleia-azul"],"correta":3},
-  {"pergunta":"Qual é a capital do Chile?","opcoes":["Santiago","Lima","Bogotá"],"correta":1},
-  {"pergunta":"Qual é o principal gás da atmosfera?","opcoes":["Oxigênio","Nitrogênio","Hélio"],"correta":2},
-  {"pergunta":"Qual é o número romano X?","opcoes":["5","10","50"],"correta":2},
-  {"pergunta":"Qual é o maior osso do corpo humano?","opcoes":["Fêmur","Tíbia","Úmero"],"correta":1},
-  {"pergunta":"Qual é a capital da Rússia?","opcoes":["Moscou","Kiev","São Petersburgo"],"correta":1},
-  {"pergunta":"Qual é o maior oceano em profundidade média?","opcoes":["Atlântico","Pacífico","Índico"],"correta":2},
-  {"pergunta":"Qual é a capital do México?","opcoes":["Cancún","Guadalajara","Cidade do México"],"correta":3},
-  {"pergunta":"Quantos meses tem um ano?","opcoes":["10","12","14"],"correta":2},
-  {"pergunta":"Qual é o planeta mais próximo do Sol?","opcoes":["Vênus","Mercúrio","Marte"],"correta":2},
-
-  {"pergunta":"Qual é a capital da Austrália?","opcoes":["Sydney","Melbourne","Canberra"],"correta":3},
-  {"pergunta":"Qual é o maior mar do mundo?","opcoes":["Mar Vermelho","Mar Cáspio","Mar Negro"],"correta":2},
-  {"pergunta":"Qual é a capital da Colômbia?","opcoes":["Bogotá","Medellín","Cali"],"correta":1},
-  {"pergunta":"Qual é o maior felino do mundo?","opcoes":["Leão","Tigre","Onça"],"correta":2},
-  {"pergunta":"Qual é a capital do Peru?","opcoes":["Cusco","Lima","Arequipa"],"correta":2},
-  {"pergunta":"Qual é o maior arquipélago brasileiro?","opcoes":["Fernando de Noronha","Marajó","Abrolhos"],"correta":2},
-  {"pergunta":"Qual é a capital da Noruega?","opcoes":["Oslo","Estocolmo","Helsinque"],"correta":1},
-  {"pergunta":"Quantos graus tem um ângulo reto?","opcoes":["45","90","180"],"correta":2},
-  {"pergunta":"Qual é o maior planeta rochoso?","opcoes":["Terra","Marte","Vênus"],"correta":1},
-  {"pergunta":"Qual é a capital da Índia?","opcoes":["Mumbai","Nova Délhi","Calcutá"],"correta":2}
-
-
-{"pergunta":"Qual é o maior país da América do Sul em população?","opcoes":["Brasil","Argentina","Colômbia"],"correta":1},
-{"pergunta":"Qual órgão bombeia o sangue no corpo humano?","opcoes":["Pulmão","Coração","Fígado"],"correta":2},
-{"pergunta":"Qual é o metal líquido à temperatura ambiente?","opcoes":["Mercúrio","Alumínio","Prata"],"correta":1},
-{"pergunta":"Qual é o continente menos populoso?","opcoes":["Oceania","Antártida","África"],"correta":2},
-{"pergunta":"Quantas letras tem o alfabeto português?","opcoes":["24","25","26"],"correta":3},
-{"pergunta":"Qual é o animal mais rápido em terra?","opcoes":["Leão","Guepardo","Cavalo"],"correta":2},
-{"pergunta":"Qual é o maior planeta gasoso?","opcoes":["Saturno","Júpiter","Netuno"],"correta":2},
-{"pergunta":"Qual instrumento mede terremotos?","opcoes":["Sismógrafo","Termômetro","Barômetro"],"correta":1},
-{"pergunta":"Qual é a estrela mais próxima da Terra?","opcoes":["Sol","Sírius","Alpha Centauri"],"correta":1},
-{"pergunta":"Qual é o maior tipo de floresta do mundo?","opcoes":["Tropical","Taiga","Savanas"],"correta":2},
-
-{"pergunta":"Qual parte do corpo humano é responsável pela visão?","opcoes":["Ouvido","Olho","Nariz"],"correta":2},
-{"pergunta":"Quantos lados tem um quadrado?","opcoes":["3","4","5"],"correta":2},
-{"pergunta":"Qual é o maior animal terrestre extinto conhecido?","opcoes":["Mamute","Dinossauro","Megalodonte"],"correta":2},
-{"pergunta":"Qual gás as plantas absorvem?","opcoes":["Oxigênio","Gás carbônico","Hidrogênio"],"correta":2},
-{"pergunta":"Qual é o maior osso da perna?","opcoes":["Fêmur","Tíbia","Fíbula"],"correta":1},
-{"pergunta":"Qual é o idioma oficial do Egito?","opcoes":["Árabe","Inglês","Francês"],"correta":1},
-{"pergunta":"Qual planeta possui anéis mais visíveis?","opcoes":["Júpiter","Saturno","Urano"],"correta":2},
-{"pergunta":"Qual é o estado físico do ar?","opcoes":["Sólido","Líquido","Gasoso"],"correta":3},
-{"pergunta":"Quantas horas tem um dia?","opcoes":["12","24","48"],"correta":2},
-{"pergunta":"Qual é o maior inseto do mundo?","opcoes":["Besouro-golias","Formiga","Barata"],"correta":1},
-
-{"pergunta":"Qual é o menor osso do corpo humano?","opcoes":["Estribo","Martelo","Bigorna"],"correta":1},
-{"pergunta":"Qual é o formato da Terra?","opcoes":["Plana","Esférica","Cúbica"],"correta":2},
-{"pergunta":"Qual é o maior animal voador?","opcoes":["Águia","Condor","Albatroz"],"correta":3},
-{"pergunta":"Qual órgão filtra o sangue?","opcoes":["Rim","Pulmão","Estômago"],"correta":1},
-{"pergunta":"Quantos dentes tem um adulto saudável?","opcoes":["28","30","32"],"correta":3},
-{"pergunta":"Qual é a unidade básica da vida?","opcoes":["Átomo","Célula","Molécula"],"correta":2},
-{"pergunta":"Qual é o maior felino das Américas?","opcoes":["Onça-pintada","Puma","Leopardo"],"correta":1},
-{"pergunta":"Qual planeta é conhecido por ter ventos mais fortes?","opcoes":["Netuno","Marte","Vênus"],"correta":1},
-{"pergunta":"Qual é o maior animal marinho?","opcoes":["Orca","Baleia-azul","Tubarão-baleia"],"correta":2},
-{"pergunta":"Quantos lados tem um hexágono?","opcoes":["5","6","7"],"correta":2},
-
-{"pergunta":"Qual é o principal componente do vidro?","opcoes":["Areia","Plástico","Metal"],"correta":1},
-{"pergunta":"Qual é o maior tipo de montanha do mundo?","opcoes":["Vulcânica","Dobrável","Planalto"],"correta":2},
-{"pergunta":"Qual é o planeta mais quente do Sistema Solar?","opcoes":["Mercúrio","Vênus","Marte"],"correta":2},
-{"pergunta":"Qual é o maior predador terrestre atual?","opcoes":["Leão","Urso-polar","Tigre"],"correta":2},
-{"pergunta":"Qual é o principal órgão do sistema nervoso?","opcoes":["Cérebro","Medula","Coração"],"correta":1},
-{"pergunta":"Quantos centímetros tem um metro?","opcoes":["10","100","1000"],"correta":2},
-{"pergunta":"Qual é o maior tipo de ave corredora?","opcoes":["Ema","Avestruz","Casuar"],"correta":2},
-{"pergunta":"Qual é a fonte primária de energia da Terra?","opcoes":["Lua","Sol","Vento"],"correta":2},
-{"pergunta":"Qual é o maior tipo de peixe ósseo?","opcoes":["Atum","Peixe-lua","Bacalhau"],"correta":2},
-{"pergunta":"Quantos lados tem um octógono?","opcoes":["6","8","10"],"correta":2},
-
-{"pergunta":"Qual é o principal mineral usado para produzir aço?","opcoes":["Ferro","Cobre","Alumínio"],"correta":1},
-{"pergunta":"Qual é o estado físico do gelo?","opcoes":["Líquido","Gasoso","Sólido"],"correta":3},
-{"pergunta":"Qual é o maior órgão do corpo humano?","opcoes":["Pele","Fígado","Pulmão"],"correta":1},
-{"pergunta":"Qual é o maior tipo de réptil atual?","opcoes":["Crocodilo-marinho","Jacaré","Iguana"],"correta":1},
-{"pergunta":"Qual planeta possui o maior número de luas conhecidas?","opcoes":["Júpiter","Saturno","Urano"],"correta":2},
-{"pergunta":"Qual é o principal combustível usado em foguetes?","opcoes":["Hidrogênio","Carvão","Gasolina"],"correta":1},
-{"pergunta":"Qual é o maior tipo de tubarão?","opcoes":["Tubarão-branco","Tubarão-baleia","Tubarão-martelo"],"correta":2},
-{"pergunta":"Quantos lados tem um pentágono?","opcoes":["4","5","6"],"correta":2},
-{"pergunta":"Qual é o principal gás liberado na respiração humana?","opcoes":["Oxigênio","Gás carbônico","Hélio"],"correta":2},
-{"pergunta":"Qual é o maior tipo de floresta do Brasil?","opcoes":["Amazônica","Cerrado","Mata Atlântica"],"correta":1}
-
+[
+  {
+    "pergunta": "quem foi o gênio que criou esse jogo?",
+    "opcoes": [
+      "yan",
+      "abraâo",
+      "mirelly"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual é a capital do Brasil?",
+    "opcoes": [
+      "Brasília",
+      "Rio de Janeiro",
+      "São Paulo"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual planeta é conhecido como planeta vermelho?",
+    "opcoes": [
+      "Júpiter",
+      "Marte",
+      "Vênus"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Quantos continentes existem no mundo?",
+    "opcoes": [
+      "5",
+      "6",
+      "7"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual é o maior oceano do mundo?",
+    "opcoes": [
+      "Pacífico",
+      "Atlântico",
+      "Índico"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Quem descobriu o Brasil?",
+    "opcoes": [
+      "Pedro Álvares Cabral",
+      "Cristóvão Colombo",
+      "Vasco da Gama"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual é o maior planeta do Sistema Solar?",
+    "opcoes": [
+      "Saturno",
+      "Terra",
+      "Júpiter"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual é a capital da França?",
+    "opcoes": [
+      "Paris",
+      "Roma",
+      "Londres"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Quantos dias tem um ano bissexto?",
+    "opcoes": [
+      "365",
+      "366",
+      "364"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual animal é conhecido como rei da selva?",
+    "opcoes": [
+      "Elefante",
+      "Leão",
+      "Tigre"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual é o símbolo químico da água?",
+    "opcoes": [
+      "H2O",
+      "O2",
+      "CO2"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual é o maior país do mundo em território?",
+    "opcoes": [
+      "Canadá",
+      "China",
+      "Rússia"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual é o menor país do mundo?",
+    "opcoes": [
+      "Vaticano",
+      "Mônaco",
+      "Malta"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual gás é essencial para a respiração humana?",
+    "opcoes": [
+      "Oxigênio",
+      "Nitrogênio",
+      "Hidrogênio"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Em que país fica a Torre Eiffel?",
+    "opcoes": [
+      "Bélgica",
+      "Espanha",
+      "França"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual é o maior mamífero do mundo?",
+    "opcoes": [
+      "Elefante",
+      "Baleia-azul",
+      "Girafa"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual instrumento mede a temperatura?",
+    "opcoes": [
+      "Termômetro",
+      "Barômetro",
+      "Anemômetro"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Quantas cores tem o arco-íris?",
+    "opcoes": [
+      "6",
+      "7",
+      "8"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual é a língua mais falada do mundo?",
+    "opcoes": [
+      "Inglês",
+      "Mandarim",
+      "Espanhol"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual é o maior deserto do mundo?",
+    "opcoes": [
+      "Saara",
+      "Gobi",
+      "Antártida"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Quem foi o primeiro homem a pisar na Lua?",
+    "opcoes": [
+      "Neil Armstrong",
+      "Buzz Aldrin",
+      "Yuri Gagarin"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual é a capital do Japão?",
+    "opcoes": [
+      "Pequim",
+      "Seul",
+      "Tóquio"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Quantos planetas existem no Sistema Solar?",
+    "opcoes": [
+      "7",
+      "8",
+      "9"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual é o maior rio do mundo em volume de água?",
+    "opcoes": [
+      "Amazonas",
+      "Nilo",
+      "Yangtzé"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual metal tem símbolo Fe?",
+    "opcoes": [
+      "Ferro",
+      "Flúor",
+      "Fósforo"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual é a capital da Argentina?",
+    "opcoes": [
+      "Buenos Aires",
+      "Montevidéu",
+      "Santiago"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual é o maior continente?",
+    "opcoes": [
+      "África",
+      "Ásia",
+      "Europa"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual é a capital da Itália?",
+    "opcoes": [
+      "Veneza",
+      "Roma",
+      "Milão"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual é o maior animal terrestre?",
+    "opcoes": [
+      "Rinoceronte",
+      "Elefante",
+      "Hipopótamo"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual é a capital de Portugal?",
+    "opcoes": [
+      "Porto",
+      "Lisboa",
+      "Coimbra"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual é o maior lago do mundo?",
+    "opcoes": [
+      "Vitória",
+      "Cáspio",
+      "Superior"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Quantos lados tem um triângulo?",
+    "opcoes": [
+      "2",
+      "3",
+      "4"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual é a moeda do Brasil?",
+    "opcoes": [
+      "Peso",
+      "Real",
+      "Dólar"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual é o maior vulcão do mundo?",
+    "opcoes": [
+      "Etna",
+      "Mauna Loa",
+      "Vesúvio"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual é o menor planeta do Sistema Solar?",
+    "opcoes": [
+      "Marte",
+      "Mercúrio",
+      "Vênus"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual é a capital da Alemanha?",
+    "opcoes": [
+      "Berlim",
+      "Munique",
+      "Hamburgo"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual é a capital do Canadá?",
+    "opcoes": [
+      "Toronto",
+      "Vancouver",
+      "Ottawa"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual é o maior arquipélago do mundo?",
+    "opcoes": [
+      "Filipinas",
+      "Indonésia",
+      "Japão"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual é a capital da Espanha?",
+    "opcoes": [
+      "Barcelona",
+      "Sevilha",
+      "Madri"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual é o órgão responsável pela respiração?",
+    "opcoes": [
+      "Pulmão",
+      "Coração",
+      "Rim"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Quantos segundos tem um minuto?",
+    "opcoes": [
+      "30",
+      "60",
+      "90"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual é o maior animal do planeta?",
+    "opcoes": [
+      "Elefante",
+      "Tubarão-branco",
+      "Baleia-azul"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual é a capital do Chile?",
+    "opcoes": [
+      "Santiago",
+      "Lima",
+      "Bogotá"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual é o principal gás da atmosfera?",
+    "opcoes": [
+      "Oxigênio",
+      "Nitrogênio",
+      "Hélio"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual é o número romano X?",
+    "opcoes": [
+      "5",
+      "10",
+      "50"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual é o maior osso do corpo humano?",
+    "opcoes": [
+      "Fêmur",
+      "Tíbia",
+      "Úmero"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual é a capital da Rússia?",
+    "opcoes": [
+      "Moscou",
+      "Kiev",
+      "São Petersburgo"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual é o maior oceano em profundidade média?",
+    "opcoes": [
+      "Atlântico",
+      "Pacífico",
+      "Índico"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual é a capital do México?",
+    "opcoes": [
+      "Cancún",
+      "Guadalajara",
+      "Cidade do México"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Quantos meses tem um ano?",
+    "opcoes": [
+      "10",
+      "12",
+      "14"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual é o planeta mais próximo do Sol?",
+    "opcoes": [
+      "Vênus",
+      "Mercúrio",
+      "Marte"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual é a capital da Austrália?",
+    "opcoes": [
+      "Sydney",
+      "Melbourne",
+      "Canberra"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual é o maior mar do mundo?",
+    "opcoes": [
+      "Mar Vermelho",
+      "Mar Cáspio",
+      "Mar Negro"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual é a capital da Colômbia?",
+    "opcoes": [
+      "Bogotá",
+      "Medellín",
+      "Cali"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual é o maior felino do mundo?",
+    "opcoes": [
+      "Leão",
+      "Tigre",
+      "Onça"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual é a capital do Peru?",
+    "opcoes": [
+      "Cusco",
+      "Lima",
+      "Arequipa"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual é o maior arquipélago brasileiro?",
+    "opcoes": [
+      "Fernando de Noronha",
+      "Marajó",
+      "Abrolhos"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual é a capital da Noruega?",
+    "opcoes": [
+      "Oslo",
+      "Estocolmo",
+      "Helsinque"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Quantos graus tem um ângulo reto?",
+    "opcoes": [
+      "45",
+      "90",
+      "180"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual é o maior planeta rochoso?",
+    "opcoes": [
+      "Terra",
+      "Marte",
+      "Vênus"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual é a capital da Índia?",
+    "opcoes": [
+      "Mumbai",
+      "Nova Délhi",
+      "Calcutá"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual é o maior país da América do Sul em população?",
+    "opcoes": [
+      "Brasil",
+      "Argentina",
+      "Colômbia"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual órgão bombeia o sangue no corpo humano?",
+    "opcoes": [
+      "Pulmão",
+      "Coração",
+      "Fígado"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual é o metal líquido à temperatura ambiente?",
+    "opcoes": [
+      "Mercúrio",
+      "Alumínio",
+      "Prata"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual é o continente menos populoso?",
+    "opcoes": [
+      "Oceania",
+      "Antártida",
+      "África"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Quantas letras tem o alfabeto português?",
+    "opcoes": [
+      "24",
+      "25",
+      "26"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual é o animal mais rápido em terra?",
+    "opcoes": [
+      "Leão",
+      "Guepardo",
+      "Cavalo"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual é o maior planeta gasoso?",
+    "opcoes": [
+      "Saturno",
+      "Júpiter",
+      "Netuno"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual instrumento mede terremotos?",
+    "opcoes": [
+      "Sismógrafo",
+      "Termômetro",
+      "Barômetro"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual é a estrela mais próxima da Terra?",
+    "opcoes": [
+      "Sol",
+      "Sírius",
+      "Alpha Centauri"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual é o maior tipo de floresta do mundo?",
+    "opcoes": [
+      "Tropical",
+      "Taiga",
+      "Savanas"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual parte do corpo humano é responsável pela visão?",
+    "opcoes": [
+      "Ouvido",
+      "Olho",
+      "Nariz"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Quantos lados tem um quadrado?",
+    "opcoes": [
+      "3",
+      "4",
+      "5"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual é o maior animal terrestre extinto conhecido?",
+    "opcoes": [
+      "Mamute",
+      "Dinossauro",
+      "Megalodonte"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual gás as plantas absorvem?",
+    "opcoes": [
+      "Oxigênio",
+      "Gás carbônico",
+      "Hidrogênio"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual é o maior osso da perna?",
+    "opcoes": [
+      "Fêmur",
+      "Tíbia",
+      "Fíbula"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual é o idioma oficial do Egito?",
+    "opcoes": [
+      "Árabe",
+      "Inglês",
+      "Francês"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual planeta possui anéis mais visíveis?",
+    "opcoes": [
+      "Júpiter",
+      "Saturno",
+      "Urano"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual é o estado físico do ar?",
+    "opcoes": [
+      "Sólido",
+      "Líquido",
+      "Gasoso"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Quantas horas tem um dia?",
+    "opcoes": [
+      "12",
+      "24",
+      "48"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual é o maior inseto do mundo?",
+    "opcoes": [
+      "Besouro-golias",
+      "Formiga",
+      "Barata"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual é o menor osso do corpo humano?",
+    "opcoes": [
+      "Estribo",
+      "Martelo",
+      "Bigorna"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual é o formato da Terra?",
+    "opcoes": [
+      "Plana",
+      "Esférica",
+      "Cúbica"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual é o maior animal voador?",
+    "opcoes": [
+      "Águia",
+      "Condor",
+      "Albatroz"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual órgão filtra o sangue?",
+    "opcoes": [
+      "Rim",
+      "Pulmão",
+      "Estômago"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Quantos dentes tem um adulto saudável?",
+    "opcoes": [
+      "28",
+      "30",
+      "32"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual é a unidade básica da vida?",
+    "opcoes": [
+      "Átomo",
+      "Célula",
+      "Molécula"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual é o maior felino das Américas?",
+    "opcoes": [
+      "Onça-pintada",
+      "Puma",
+      "Leopardo"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual planeta é conhecido por ter ventos mais fortes?",
+    "opcoes": [
+      "Netuno",
+      "Marte",
+      "Vênus"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual é o maior animal marinho?",
+    "opcoes": [
+      "Orca",
+      "Baleia-azul",
+      "Tubarão-baleia"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Quantos lados tem um hexágono?",
+    "opcoes": [
+      "5",
+      "6",
+      "7"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual é o principal componente do vidro?",
+    "opcoes": [
+      "Areia",
+      "Plástico",
+      "Metal"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual é o maior tipo de montanha do mundo?",
+    "opcoes": [
+      "Vulcânica",
+      "Dobrável",
+      "Planalto"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual é o planeta mais quente do Sistema Solar?",
+    "opcoes": [
+      "Mercúrio",
+      "Vênus",
+      "Marte"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual é o maior predador terrestre atual?",
+    "opcoes": [
+      "Leão",
+      "Urso-polar",
+      "Tigre"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual é o principal órgão do sistema nervoso?",
+    "opcoes": [
+      "Cérebro",
+      "Medula",
+      "Coração"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Quantos centímetros tem um metro?",
+    "opcoes": [
+      "10",
+      "100",
+      "1000"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual é o maior tipo de ave corredora?",
+    "opcoes": [
+      "Ema",
+      "Avestruz",
+      "Casuar"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual é a fonte primária de energia da Terra?",
+    "opcoes": [
+      "Lua",
+      "Sol",
+      "Vento"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual é o maior tipo de peixe ósseo?",
+    "opcoes": [
+      "Atum",
+      "Peixe-lua",
+      "Bacalhau"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Quantos lados tem um octógono?",
+    "opcoes": [
+      "6",
+      "8",
+      "10"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual é o principal mineral usado para produzir aço?",
+    "opcoes": [
+      "Ferro",
+      "Cobre",
+      "Alumínio"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual é o estado físico do gelo?",
+    "opcoes": [
+      "Líquido",
+      "Gasoso",
+      "Sólido"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual é o maior órgão do corpo humano?",
+    "opcoes": [
+      "Pele",
+      "Fígado",
+      "Pulmão"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual é o maior tipo de réptil atual?",
+    "opcoes": [
+      "Crocodilo-marinho",
+      "Jacaré",
+      "Iguana"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual planeta possui o maior número de luas conhecidas?",
+    "opcoes": [
+      "Júpiter",
+      "Saturno",
+      "Urano"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual é o principal combustível usado em foguetes?",
+    "opcoes": [
+      "Hidrogênio",
+      "Carvão",
+      "Gasolina"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual é o maior tipo de tubarão?",
+    "opcoes": [
+      "Tubarão-branco",
+      "Tubarão-baleia",
+      "Tubarão-martelo"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Quantos lados tem um pentágono?",
+    "opcoes": [
+      "4",
+      "5",
+      "6"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual é o principal gás liberado na respiração humana?",
+    "opcoes": [
+      "Oxigênio",
+      "Gás carbônico",
+      "Hélio"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual é o maior tipo de floresta do Brasil?",
+    "opcoes": [
+      "Amazônica",
+      "Cerrado",
+      "Mata Atlântica"
+    ],
+    "correta": 1
+  }
 ]
-
