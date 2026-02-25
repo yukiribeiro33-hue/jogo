@@ -1,102 +1,502 @@
 [
-  {"pergunta": "Qual a letra inicial de ABACAXI?", "opcoes": ["E", "A", "O"], "correta": 1},
-  {"pergunta": "Qual destas palavras rima com GATO?", "opcoes": ["BOLA", "RATO", "CASA"], "correta": 1},
-  {"pergunta": "Quantas sílabas tem a palavra BONECA?", "opcoes": ["2", "4", "3"], "correta": 2},
-  {"pergunta": "Qual o feminino de LEÃO?", "opcoes": ["LEOA", "LEOARDA", "LEONESSA"], "correta": 0},
-  {"pergunta": "Qual destas é uma fruta?", "opcoes": ["CARRO", "BANANA", "LÁPIS"], "correta": 1},
-  {"pergunta": "O que vem depois do B no alfabeto?", "opcoes": ["A", "D", "C"], "correta": 2},
-  {"pergunta": "Qual palavra é um nome de pessoa?", "opcoes": ["MARIA", "MESA", "MAÇÃ"], "correta": 0},
-  {"pergunta": "Qual o plural de FLOR?", "opcoes": ["FLORS", "FLORES", "FLOREZ"], "correta": 1},
-  {"pergunta": "Escolha o antônimo de ALTO:", "opcoes": ["GRANDE", "BAIXO", "MAGRO"], "correta": 1},
-  {"pergunta": "Qual o som inicial de SAPATO?", "opcoes": ["SA", "PA", "TO"], "correta": 0},
-  {"pergunta": "Qual palavra indica uma ação?", "opcoes": ["CORRER", "SAPATO", "AZUL"], "correta": 0},
-  {"pergunta": "Qual o coletivo de LOBOS?", "opcoes": ["REBANHO", "ALCATEIA", "MANADA"], "correta": 1},
-  {"pergunta": "A palavra 'PASSARINHO' é:", "opcoes": ["Monossílaba", "Dissílaba", "Polissílaba"], "correta": 2},
-  {"pergunta": "Qual destas palavras é um substantivo próprio?", "opcoes": ["BRASIL", "PAÍS", "CIDADE"], "correta": 0},
-  {"pergunta": "Qual o sinônimo de BONITO?", "opcoes": ["FEIO", "LINDO", "GRANDE"], "correta": 1},
-  {"pergunta": "Onde usamos o ponto de interrogação (?)?", "opcoes": ["Afirmação", "Pergunta", "Susto"], "correta": 1},
-  {"pergunta": "Qual o plural de PÃO?", "opcoes": ["PÕES", "PÃOS", "PÃES"], "correta": 2},
-  {"pergunta": "Qual palavra tem 3 sílabas?", "opcoes": ["ESCORREGA", "CADERNO", "PÉ"], "correta": 1},
-  {"pergunta": "O que é um ADJETIVO?", "opcoes": ["Uma ação", "Um nome", "Uma característica"], "correta": 2},
-  {"pergunta": "Qual frase está no passado?", "opcoes": ["Eu comi", "Eu como", "Eu comerei"], "correta": 0},
-  {"pergunta": "Qual palavra é acentuada corretamente?", "opcoes": ["CAFE", "CAFÉ", "CÁFE"], "correta": 1},
-  {"pergunta": "Qual o aumentativo de CASA?", "opcoes": ["CASINHA", "CASARÃO", "CASONA"], "correta": 1},
-  {"pergunta": "O que é um substantivo comum?", "opcoes": ["PEDRO", "MENINO", "SÃO PAULO"], "correta": 1},
-  {"pergunta": "Qual o feminino de CAVALO?", "opcoes": ["ÉGUA", "CAVALA", "MULHER"], "correta": 0},
-  {"pergunta": "Qual destas palavras é oxítona?", "opcoes": ["CASA", "MÉDICO", "URUBU"], "correta": 2},
-  {"pergunta": "Quantas letras tem a palavra PARALELOGRAMO?", "opcoes": ["12", "13", "14"], "correta": 1},
-  {"pergunta": "Qual o plural de HOMEM?", "opcoes": ["HOMEMS", "HOMENS", "HOMEMES"], "correta": 1},
-  {"pergunta": "Qual o antônimo de CEDO?", "opcoes": ["TARDE", "DEPOIS", "ONTEM"], "correta": 0},
-  {"pergunta": "Qual palavra está no diminutivo?", "opcoes": ["BOLÃO", "BOLINHA", "BOLA"], "correta": 1},
-  {"pergunta": "Qual o pronome pessoal da 1ª pessoa do singular?", "opcoes": ["TU", "ELE", "EU"], "correta": 2},
-  {"pergunta": "Qual destas palavras é proparoxítona?", "opcoes": ["ÁRVORE", "SÁBIO", "FÁCIL"], "correta": 0},
-  {"pergunta": "Qual a classe gramatical de 'RÁPIDO'?", "opcoes": ["Substantivo", "Adjetivo", "Verbo"], "correta": 1},
-  {"pergunta": "Qual o infinitivo do verbo 'CANTAMOS'?", "opcoes": ["CANTAR", "CANTOU", "CANTARIA"], "correta": 0},
-  {"pergunta": "Qual o coletivo de ILHAS?", "opcoes": ["CONSTELAÇÃO", "ARQUIPÉLAGO", "FROTA"], "correta": 1},
-  {"pergunta": "Qual palavra tem encontro consonantal?", "opcoes": ["PRATO", "AULA", "PEIXE"], "correta": 0},
-  {"pergunta": "Qual o plural de FUNIL?", "opcoes": ["FUNILS", "FUNÍEIS", "FUNIS"], "correta": 2},
-  {"pergunta": "Qual o antônimo de APARECER?", "opcoes": ["SUMIR", "SURGIR", "MOSTRAR"], "correta": 0},
-  {"pergunta": "Qual o tempo verbal de 'EU FAREI'?", "opcoes": ["Presente", "Pretérito", "Futuro"], "correta": 2},
-  {"pergunta": "Qual pontuação indica uma pausa curta?", "opcoes": ["Ponto final", "Vírgula", "Exclamação"], "correta": 1},
-  {"pergunta": "Qual o feminino de PADRINHO?", "opcoes": ["MADRINHA", "TIA", "IRMÃ"], "correta": 0},
-  {"pergunta": "Qual frase contém um advérbio de tempo?", "opcoes": ["Aqui é bom", "Ele chegou ontem", "Correu muito"], "correta": 1},
-  {"pergunta": "Qual palavra é escrita com 'X' mas tem som de 'Z'?", "opcoes": ["EXAME", "XADREZ", "TEXTO"], "correta": 0},
-  {"pergunta": "O plural de 'CIDADÃO' é:", "opcoes": ["CIDADÕES", "CIDADÃES", "CIDADÃOS"], "correta": 2},
-  {"pergunta": "Qual a classe gramatical de 'VAGAROSAMENTE'?", "opcoes": ["Adjetivo", "Advérbio", "Substantivo"], "correta": 1},
-  {"pergunta": "A palavra 'MÉDICO' é acentuada por ser:", "opcoes": ["Oxítona", "Paroxítona", "Proparoxítona"], "correta": 2},
-  {"pergunta": "Qual frase está na voz passiva?", "opcoes": ["O gato fugiu", "A casa foi vendida", "Eu li o livro"], "correta": 1},
-  {"pergunta": "Qual o antônimo de EFÊMERO?", "opcoes": ["DURADOURO", "PASSAGEIRO", "CURTO"], "correta": 0},
-  {"pergunta": "Qual destas palavras tem um hiato?", "opcoes": ["SAÚDE", "CAIXA", "FLAUTA"], "correta": 0},
-  {"pergunta": "O plural de 'MAL' é:", "opcoes": ["MAUS", "MALES", "MALS"], "correta": 1},
-  {"pergunta": "Qual o aumentativo de MURO?", "opcoes": ["MURÃO", "MURALHA", "MUROZÃO"], "correta": 1},
-  {"pergunta": "Qual o coletivo de 'PEIXES'?", "opcoes": ["CARDUME", "FROTA", "VARA"], "correta": 0},
-  {"pergunta": "A palavra 'AQUILO' é um pronome:", "opcoes": ["Possessivo", "Demonstrativo", "Pessoal"], "correta": 1},
-  {"pergunta": "Qual o sinônimo de 'REITERAR'?", "opcoes": ["REPETIR", "REJEITAR", "RESPONDER"], "correta": 0},
-  {"pergunta": "Na frase 'Ele é muito inteligente', 'MUITO' é:", "opcoes": ["Adjetivo", "Advérbio de intensidade", "Pronome"], "correta": 1},
-  {"pergunta": "Qual o plural de 'CARÁTER'?", "opcoes": ["CARÁTERES", "CARATERES", "CARÁTERS"], "correta": 1},
-  {"pergunta": "Qual figura de linguagem há em 'O sol sorriu para mim'?", "opcoes": ["Metáfora", "Personificação", "Hipérbole"], "correta": 1},
-  {"pergunta": "Qual frase está no pretérito imperfeito?", "opcoes": ["Eu estudava", "Eu estudei", "Eu estudara"], "correta": 0},
-  {"pergunta": "O que significa a expressão 'Pôr a mão no fogo'?", "opcoes": ["Cozinhar", "Confiar plenamente", "Se queimar"], "correta": 1},
-  {"pergunta": "Qual a correta grafia?", "opcoes": ["EXCEÇÃO", "EXCESSÃO", "ESCEÇÃO"], "correta": 0},
-  {"pergunta": "Qual o feminino de 'POETA'?", "opcoes": ["POETISA", "POETA", "POETRIZ"], "correta": 0},
-  {"pergunta": "O que é um dígrafo?", "opcoes": ["Duas letras, um som", "Duas vogais juntas", "Três letras, dois sons"], "correta": 0},
-  {"pergunta": "Qual o plural de 'CAPITÃO'?", "opcoes": ["CAPITÃES", "CAPITÃOS", "CAPITÕES"], "correta": 0},
-  {"pergunta": "Qual o antônimo de 'ALTRUÍSTA'?", "opcoes": ["BONDOSO", "EGOÍSTA", "GENEROSO"], "correta": 1},
-  {"pergunta": "A crase é proibida antes de:", "opcoes": ["Substantivos femininos", "Verbos", "Nomes de cidades"], "correta": 1},
-  {"pergunta": "Qual a figura de linguagem em 'Morreu de rir'?", "opcoes": ["Metáfora", "Ironia", "Hipérbole"], "correta": 2},
-  {"pergunta": "O pronome 'Vossa Excelência' é usado para:", "opcoes": ["Amigos", "Autoridades", "Familiares"], "correta": 1},
-  {"pergunta": "Qual o plural de 'NÚCLEO'?", "opcoes": ["NÚCLEOS", "NÚCLEIS", "NUCLEORES"], "correta": 0},
-  {"pergunta": "Qual palavra é um homônimo?", "opcoes": ["MANGA", "CASA", "LIVRO"], "correta": 0},
-  {"pergunta": "Qual a função do aposto na frase?", "opcoes": ["Chamar alguém", "Explicar um termo", "Indicar tempo"], "correta": 1},
-  {"pergunta": "Qual o superlativo absoluto de 'DIFÍCIL'?", "opcoes": ["DIFICILZÃO", "MUITO DIFÍCIL", "DIFICÍLIMO"], "correta": 2},
-  {"pergunta": "Qual a oração coordenada adversativa?", "opcoes": ["Correu, mas cansou", "Correu e cansou", "Correu porque quis"], "correta": 0},
-  {"pergunta": "Qual o plural de 'DEGRAU'?", "opcoes": ["DEGRAUS", "DEGRÃES", "DEGRÕES"], "correta": 0},
-  {"pergunta": "Qual o sinônimo de 'HESITAR'?", "opcoes": ["VACILAR", "DECIDIR", "AFIRMAR"], "correta": 0},
-  {"pergunta": "O que é uma oração sem sujeito?", "opcoes": ["Choveu muito", "Ele saiu", "Nós fomos"], "correta": 0},
-  {"pergunta": "Qual o feminino de 'CARNEIRO'?", "opcoes": ["CABRA", "OVELHA", "ÉGUA"], "correta": 1},
-  {"pergunta": "Qual a grafia correta?", "opcoes": ["ANALIZAR", "ANALISAR", "ANALLIZAR"], "correta": 1},
-  {"pergunta": "Qual o antônimo de 'MODERNO'?", "opcoes": ["ATUAL", "ANTIGO", "NOVO"], "correta": 1},
-  {"pergunta": "Qual a classe de 'EMBORA' em 'Embora chova, vou'?", "opcoes": ["Preposição", "Conjunção", "Advérbio"], "correta": 1},
-  {"pergunta": "O plural de 'GIRASSOL' é:", "opcoes": ["GIRASSOLS", "GIRASSÓIS", "GIRASSOLES"], "correta": 1},
-  {"pergunta": "Qual o aumentativo de 'FORTE'?", "opcoes": ["FORTÃO", "FORTÍSSIMO", "FORTALECIDO"], "correta": 1},
-  {"pergunta": "O que indica a reticências (...)?", "opcoes": ["Final de frase", "Interrupção de ideia", "Pergunta"], "correta": 1},
-  {"pergunta": "Qual o plural de 'ÁLCOOL'?", "opcoes": ["ÁLCOOLS", "ALCOÓIS", "ÁLCOOLIS"], "correta": 1},
-  {"pergunta": "Qual o coletivo de 'ESTRELAS'?", "opcoes": ["CONSTELAÇÃO", "NUVEM", "BANDO"], "correta": 0},
-  {"pergunta": "Qual palavra tem 10 letras?", "opcoes": ["DETERMINAR", "ESTUDANTE", "PORTUGUÊS"], "correta": 0},
-  {"pergunta": "Qual o sinônimo de 'INDIGNAÇÃO'?", "opcoes": ["ALEGRIA", "REVOLTA", "CALMA"], "correta": 1},
-  {"pergunta": "Qual a classe de 'A' na frase 'A menina saiu'?", "opcoes": ["Artigo", "Preposição", "Pronome"], "correta": 0},
-  {"pergunta": "Qual o particípio do verbo 'FAZER'?", "opcoes": ["FAZIDO", "FEITO", "FAZENDO"], "correta": 1},
-  {"pergunta": "Qual frase usa o 'PORQUE' (junto) corretamente?", "opcoes": ["Vou porque quero", "Por que sim?", "Não sei o porque"], "correta": 0},
-  {"pergunta": "Qual o plural de 'MÃO'?", "opcoes": ["MÃES", "MÃOS", "MÕES"], "correta": 1},
-  {"pergunta": "Qual o antônimo de 'CÔNCAVO'?", "opcoes": ["REDONDO", "PLANO", "CONVEXO"], "correta": 2},
-  {"pergunta": "Qual a figura em 'O rugido do trovão'?", "opcoes": ["Metonímia", "Onomatopeia", "Metáfora"], "correta": 1},
-  {"pergunta": "Qual o feminino de 'ATRIZ'?", "opcoes": ["ATOR", "ATRIZA", "ATREZA"], "correta": 0},
-  {"pergunta": "Qual a grafia correta da palavra?", "opcoes": ["ASSESSOR", "ACESSOR", "ASESSOR"], "correta": 0},
-  {"pergunta": "O que é um hiato?", "opcoes": ["Vogais em sílabas separadas", "Vogais na mesma sílaba", "Três vogais juntas"], "correta": 0},
-  {"pergunta": "Qual o plural de 'TÊNIS'?", "opcoes": ["TÊNIS", "TÊNISES", "TENIS"], "correta": 0},
-  {"pergunta": "A palavra 'SOL' é:", "opcoes": ["Monossílaba", "Dissílaba", "Trissílaba"], "correta": 0},
-  {"pergunta": "Qual o coletivo de 'MAPAS'?", "opcoes": ["ATLAS", "BIBLIOTECA", "PINACOTECA"], "correta": 0},
-  {"pergunta": "Qual o plural de 'PÔR DO SOL'?", "opcoes": ["PÔRES DO SOL", "PÔR DO SÓIS", "PÔR DOS SOIS"], "correta": 0},
-  {"pergunta": "Qual o sinônimo de 'EFICAZ'?", "opcoes": ["LENTO", "EFICIENTE", "RUIM"], "correta": 1},
-  {"pergunta": "Quem escreveu 'Os Lusíadas'?", "opcoes": ["MACHADO DE ASSIS", "CAMÕES", "CECÍLIA MEIRELES"], "correta": 1}
+  {
+    "pergunta": "Qual a letra inicial de ABACAXI?",
+    "opcoes": ["E", "A", "O"],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual destas palavras rima com GATO?",
+    "opcoes": ["BOLA", "RATO", "CASA"],
+    "correta": 2
+  },
+  {
+    "pergunta": "Quantas sílabas tem a palavra BONECA?",
+    "opcoes": ["2", "4", "3"],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual o feminino de LEÃO?",
+    "opcoes": ["LEOA", "LEOARDA", "LEONESSA"],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual destas é uma fruta?",
+    "opcoes": ["CARRO", "BANANA", "LÁPIS"],
+    "correta": 2
+  },
+  {
+    "pergunta": "O que vem depois do B no alfabeto?",
+    "opcoes": ["D", "C", "A"],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual palavra é um nome de pessoa?",
+    "opcoes": ["MARIA", "MESA", "MAÇÃ"],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual o plural de FLOR?",
+    "opcoes": ["FLORS", "FLORES", "FLOREZ"],
+    "correta": 2
+  },
+  {
+    "pergunta": "Escolha o antônimo de ALTO:",
+    "opcoes": ["MAGRO", "GRANDE", "BAIXO"],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual o som inicial de SAPATO?",
+    "opcoes": ["SA", "PA", "TO"],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual palavra indica uma ação?",
+    "opcoes": ["CORRER", "SAPATO", "AZUL"],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual o coletivo de LOBOS?",
+    "opcoes": ["REBANHO", "ALCATEIA", "MANADA"],
+    "correta": 2
+  },
+  {
+    "pergunta": "A palavra 'PASSARINHO' é:",
+    "opcoes": ["Dissílaba", "Polissílaba", "Monossílaba"],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual destas palavras é um substantivo próprio?",
+    "opcoes": ["PAÍS", "CIDADE", "BRASIL"],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual o sinônimo de BONITO?",
+    "opcoes": ["LINDO", "GRANDE", "FEIO"],
+    "correta": 1
+  },
+  {
+    "pergunta": "Onde usamos o ponto de interrogação (?)?",
+    "opcoes": ["Pergunta", "Susto", "Afirmação"],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual o plural de PÃO?",
+    "opcoes": ["PÕES", "PÃOS", "PÃES"],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual palavra tem 3 sílabas?",
+    "opcoes": ["PÉ", "ESCORREGA", "CADERNO"],
+    "correta": 3
+  },
+  {
+    "pergunta": "O que é um ADJETIVO?",
+    "opcoes": ["Uma ação", "Um nome", "Uma característica"],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual frase está no passado?",
+    "opcoes": ["Eu comerei", "Eu comi", "Eu como"],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual palavra é acentuada corretamente?",
+    "opcoes": ["CÁFE", "CAFE", "CAFÉ"],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual o aumentativo de CASA?",
+    "opcoes": ["CASARÃO", "CASONA", "CASINHA"],
+    "correta": 1
+  },
+  {
+    "pergunta": "O que é um substantivo comum?",
+    "opcoes": ["PEDRO", "MENINO", "SÃO PAULO"],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual o feminino de CAVALO?",
+    "opcoes": ["CAVALA", "MULHER", "ÉGUA"],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual destas palavras é oxítona?",
+    "opcoes": ["MÉDICO", "URUBU", "CASA"],
+    "correta": 2
+  },
+  {
+    "pergunta": "Quantas letras tem a palavra PARALELOGRAMO?",
+    "opcoes": ["14", "12", "13"],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual o plural de HOMEM?",
+    "opcoes": ["HOMEMS", "HOMENS", "HOMEMES"],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual o antônimo de CEDO?",
+    "opcoes": ["ONTEM", "TARDE", "DEPOIS"],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual palavra está no diminutivo?",
+    "opcoes": ["BOLA", "BOLÃO", "BOLINHA"],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual o pronome pessoal da 1ª pessoa do singular?",
+    "opcoes": ["EU", "TU", "ELE"],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual destas palavras é proparoxítona?",
+    "opcoes": ["FÁCIL", "ÁRVORE", "SÁBIO"],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual a classe gramatical de 'RÁPIDO'?",
+    "opcoes": ["Substantivo", "Adjetivo", "Verbo"],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual o infinitivo do verbo 'CANTAMOS'?",
+    "opcoes": ["CANTARIA", "CANTAR", "CANTOU"],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual o coletivo de ILHAS?",
+    "opcoes": ["CONSTELAÇÃO", "ARQUIPÉLAGO", "FROTA"],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual palavra tem encontro consonantal?",
+    "opcoes": ["AULA", "PEIXE", "PRATO"],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual o plural de FUNIL?",
+    "opcoes": ["FUNILS", "FUNÍEIS", "FUNIS"],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual o antônimo de APARECER?",
+    "opcoes": ["SUMIR", "SURGIR", "MOSTRAR"],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual o tempo verbal de 'EU FAREI'?",
+    "opcoes": ["Futuro", "Presente", "Pretérito"],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual pontuação indica uma pausa curta?",
+    "opcoes": ["Ponto final", "Vírgula", "Exclamação"],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual o feminino de PADRINHO?",
+    "opcoes": ["MADRINHA", "TIA", "IRMÃ"],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual frase contém um advérbio de tempo?",
+    "opcoes": ["Aqui é bom", "Ele chegou ontem", "Correu muito"],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual palavra é escrita com 'X' mas tem som de 'Z'?",
+    "opcoes": ["EXAME", "XADREZ", "TEXTO"],
+    "correta": 1
+  },
+  {
+    "pergunta": "O plural de 'CIDADÃO' é:",
+    "opcoes": ["CIDADÃES", "CIDADÃOS", "CIDADÕES"],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual a classe gramatical de 'VAGAROSAMENTE'?",
+    "opcoes": ["Adjetivo", "Advérbio", "Substantivo"],
+    "correta": 2
+  },
+  {
+    "pergunta": "A palavra 'MÉDICO' é acentuada por ser:",
+    "opcoes": ["Proparoxítona", "Oxítona", "Paroxítona"],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual frase está na voz passiva?",
+    "opcoes": ["Eu li o livro", "O gato fugiu", "A casa foi vendida"],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual o antônimo de EFÊMERO?",
+    "opcoes": ["CURTO", "DURADOURO", "PASSAGEIRO"],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual destas palavras tem um hiato?",
+    "opcoes": ["SAÚDE", "CAIXA", "FLAUTA"],
+    "correta": 1
+  },
+  {
+    "pergunta": "O plural de 'MAL' é:",
+    "opcoes": ["MALES", "MALS", "MAUS"],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual o aumentativo de MURO?",
+    "opcoes": ["MURÃO", "MURALHA", "MUROZÃO"],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual o coletivo de 'PEIXES'?",
+    "opcoes": ["FROTA", "VARA", "CARDUME"],
+    "correta": 3
+  },
+  {
+    "pergunta": "A palavra 'AQUILO' é um pronome:",
+    "opcoes": ["Pessoal", "Possessivo", "Demonstrativo"],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual o sinônimo de 'REITERAR'?",
+    "opcoes": ["REPETIR", "REJEITAR", "RESPONDER"],
+    "correta": 1
+  },
+  {
+    "pergunta": "Na frase 'Ele é muito inteligente', 'MUITO' é:",
+    "opcoes": ["Pronome", "Adjetivo", "Advérbio de intensidade"],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual o plural de 'CARÁTER'?",
+    "opcoes": ["CARATERES", "CARÁTERS", "CARÁTERES"],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual figura de linguagem há em 'O sol sorriu para mim'?",
+    "opcoes": ["Hipérbole", "Metáfora", "Personificação"],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual frase está no pretérito imperfeito?",
+    "opcoes": ["Eu estudei", "Eu estudara", "Eu estudava"],
+    "correta": 3
+  },
+  {
+    "pergunta": "O que significa a expressão 'Pôr a mão no fogo'?",
+    "opcoes": ["Confiar plenamente", "Se queimar", "Cozinhar"],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual a correta grafia?",
+    "opcoes": ["EXCESSÃO", "ESCEÇÃO", "EXCEÇÃO"],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual o feminino de 'POETA'?",
+    "opcoes": ["POETA", "POETRIZ", "POETISA"],
+    "correta": 3
+  },
+  {
+    "pergunta": "O que é um dígrafo?",
+    "opcoes": ["Duas letras, um som", "Duas vogais juntas", "Três letras, dois sons"],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual o plural de 'CAPITÃO'?",
+    "opcoes": ["CAPITÕES", "CAPITÃES", "CAPITÃOS"],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual o antônimo de 'ALTRUÍSTA'?",
+    "opcoes": ["EGOÍSTA", "GENEROSO", "BONDOSO"],
+    "correta": 1
+  },
+  {
+    "pergunta": "A crase é proibida antes de:",
+    "opcoes": ["Substantivos femininos", "Verbos", "Nomes de cidades"],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual a figura de linguagem em 'Morreu de rir'?",
+    "opcoes": ["Hipérbole", "Metáfora", "Ironia"],
+    "correta": 1
+  },
+  {
+    "pergunta": "O pronome 'Vossa Excelência' é usado para:",
+    "opcoes": ["Autoridades", "Familiares", "Amigos"],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual o plural de 'NÚCLEO'?",
+    "opcoes": ["NÚCLEOS", "NÚCLEIS", "NUCLEORES"],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual palavra é um homônimo?",
+    "opcoes": ["CASA", "LIVRO", "MANGA"],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual a função do aposto na frase?",
+    "opcoes": ["Indicar tempo", "Chamar alguém", "Explicar um termo"],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual o superlativo absoluto de 'DIFÍCIL'?",
+    "opcoes": ["DIFICILZÃO", "MUITO DIFÍCIL", "DIFICÍLIMO"],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual a oração coordenada adversativa?",
+    "opcoes": ["Correu porque quis", "Correu, mas cansou", "Correu e cansou"],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual o plural de 'DEGRAU'?",
+    "opcoes": ["DEGRÕES", "DEGRAUS", "DEGRÃES"],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual o sinônimo de 'HESITAR'?",
+    "opcoes": ["VACILAR", "DECIDIR", "AFIRMAR"],
+    "correta": 1
+  },
+  {
+    "pergunta": "O que é uma oração sem sujeito?",
+    "opcoes": ["Nós fomos", "Choveu muito", "Ele saiu"],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual o feminino de 'CARNEIRO'?",
+    "opcoes": ["CABRA", "OVELHA", "ÉGUA"],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual a grafia correta?",
+    "opcoes": ["ANALLIZAR", "ANALIZAR", "ANALISAR"],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual o antônimo de 'MODERNO'?",
+    "opcoes": ["ATUAL", "ANTIGO", "NOVO"],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual a classe de 'EMBORA' em 'Embora chova, vou'?",
+    "opcoes": ["Conjunção", "Advérbio", "Preposição"],
+    "correta": 1
+  },
+  {
+    "pergunta": "O plural de 'GIRASSOL' é:",
+    "opcoes": ["GIRASSOLES", "GIRASSOLS", "GIRASSÓIS"],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual o aumentativo de 'FORTE'?",
+    "opcoes": ["FORTÍSSIMO", "FORTALECIDO", "FORTÃO"],
+    "correta": 1
+  },
+  {
+    "pergunta": "O indica a reticências (...)?",
+    "opcoes": ["Pergunta", "Final de frase", "Interrupção de ideia"],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual o plural de 'ÁLCOOL'?",
+    "opcoes": ["ÁLCOOLIS", "ÁLCOOLS", "ALCOÓIS"],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual o coletivo de 'ESTRELAS'?",
+    "opcoes": ["CONSTELAÇÃO", "NUVEM", "BANDO"],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual palavra tem 10 letras?",
+    "opcoes": ["DETERMINAR", "ESTUDANTE", "PORTUGUÊS"],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual o sinônimo de 'INDIGNAÇÃO'?",
+    "opcoes": ["REVOLTA", "CALMA", "ALEGRIA"],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual a classe de 'A' na frase 'A menina saiu'?",
+    "opcoes": ["Artigo", "Preposição", "Pronome"],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual o particípio do verbo 'FAZER'?",
+    "opcoes": ["FAZIDO", "FEITO", "FAZENDO"],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual frase usa o 'PORQUE' (junto) corretamente?",
+    "opcoes": ["Por que sim?", "Não sei o porque", "Vou porque quero"],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual o plural de 'MÃO'?",
+    "opcoes": ["MÕES", "MÃES", "MÃOS"],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual o antônimo de 'CÔNCAVO'?",
+    "opcoes": ["REDONDO", "PLANO", "CONVEXO"],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual a figura em 'O rugido do trovão'?",
+    "opcoes": ["Metonímia", "Onomatopeia", "Metáfora"],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual o feminino de 'ATRIZ'?",
+    "opcoes": ["ATREZA", "ATOR", "ATRIZA"],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual a grafia correta da palavra?",
+    "opcoes": ["ASESSOR", "ASSESSOR", "ACESSOR"],
+    "correta": 2
+  },
+  {
+    "pergunta": "O que é um hiato?",
+    "opcoes": ["Vogais na mesma sílaba", "Três vogais juntas", "Vogais em sílabas separadas"],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual o plural de 'TÊNIS'?",
+    "opcoes": ["TÊNIS", "TÊNISES", "TENIS"],
+    "correta": 1
+  },
+  {
+    "pergunta": "A palavra 'SOL' é:",
+    "opcoes": ["Dissílaba", "Trissílaba", "Monossílaba"],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual o coletivo de 'MAPAS'?",
+    "opcoes": ["BIBLIOTECA", "PINACOTECA", "ATLAS"],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual o plural de 'PÔR DO SOL'?",
+    "opcoes": ["PÔRES DO SOL", "PÔR DO SÓIS", "PÔR DOS SOIS"],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual o sinônimo de 'EFICAZ'?",
+    "opcoes": ["EFICIENTE", "RUIM", "LENTO"],
+    "correta": 1
+  },
+  {
+    "pergunta": "Quem escreveu 'Os Lusíadas'?",
+    "opcoes": ["CECÍLIA MEIRELES", "MACHADO DE ASSIS", "CAMÕES"],
+    "correta": 3
+  }
 ]
