@@ -1,0 +1,947 @@
+[
+  {
+    "pergunta": "Quem comandou a esquadra que chegou ao Brasil em 1500?",
+    "opcoes": [
+      "Vasco da Gama",
+      "Pedro Álvares Cabral",
+      "Cristóvão Colombo"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual foi a primeira capital do Brasil?",
+    "opcoes": [
+      "Rio de Janeiro",
+      "Brasília",
+      "Salvador"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Em que ano foi assinada a Lei Áurea?",
+    "opcoes": [
+      "1889",
+      "1888",
+      "1822"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Quem proclamou a Independência do Brasil?",
+    "opcoes": [
+      "Tiradentes",
+      "Dom Pedro II",
+      "Dom Pedro I"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual era o principal produto econômico no início da colonização?",
+    "opcoes": [
+      "Pau-brasil",
+      "Café",
+      "Ouro"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Quem foi o primeiro Presidente do Brasil?",
+    "opcoes": [
+      "Getúlio Vargas",
+      "Deodoro da Fonseca",
+      "Floriano Peixoto"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "A Inconfidência Mineira ocorreu em qual século?",
+    "opcoes": [
+      "Século XVIII",
+      "Século XIX",
+      "Século XVII"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual tratado dividiu as terras entre Portugal e Espanha?",
+    "opcoes": [
+      "Tratado de Tordesilhas",
+      "Tratado de Versalhes",
+      "Tratado de Madri"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Como ficou conhecido o período entre 1930 e 1945?",
+    "opcoes": [
+      "República Velha",
+      "Era Vargas",
+      "Ditadura Militar"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Em qual cidade foi fundada a Vila de São Vicente?",
+    "opcoes": [
+      "Santos",
+      "São Vicente",
+      "Cananéia"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Quem assinou a abolição da escravidão?",
+    "opcoes": [
+      "Princesa Isabel",
+      "Princesa Leopoldina",
+      "Princesa Maria"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual movimento buscava a independência de Pernambuco em 1817?",
+    "opcoes": [
+      "Revolução Pernambucana",
+      "Cabanagem",
+      "Revolução Farroupilha"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual país invadiu o Nordeste brasileiro no século XVII?",
+    "opcoes": [
+      "Inglaterra",
+      "França",
+      "Holanda"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Em que ano Brasília foi inaugurada?",
+    "opcoes": [
+      "1950",
+      "1960",
+      "1970"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Quem era o imperador do Brasil na Guerra do Paraguai?",
+    "opcoes": [
+      "Dom Pedro II",
+      "Dom João VI",
+      "Dom Pedro I"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual ciclo econômico sucedeu o do Pau-brasil?",
+    "opcoes": [
+      "Ciclo do Açúcar",
+      "Ciclo do Ouro",
+      "Ciclo da Borracha"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Como se chamavam os grandes latifúndios doados por Portugal?",
+    "opcoes": [
+      "Capitanias Hereditárias",
+      "Feudos",
+      "Sesmarias"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Quem liderou o Quilombo dos Palmares?",
+    "opcoes": [
+      "Ganga Zumba",
+      "Aleijadinho",
+      "Zumbi"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual presidente é conhecido como o 'Pai dos Pobres'?",
+    "opcoes": [
+      "João Goulart",
+      "Juscelino Kubitschek",
+      "Getúlio Vargas"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "O 'Grito do Ipiranga' aconteceu em qual cidade?",
+    "opcoes": [
+      "São Paulo",
+      "Rio de Janeiro",
+      "Santos"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "O que era o 'Quinto' no período colonial?",
+    "opcoes": [
+      "Imposto sobre o ouro",
+      "Divisão de terras",
+      "Cargo militar"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual foi a última província a aderir à Independência?",
+    "opcoes": [
+      "Pará",
+      "Maranhão",
+      "Bahia"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Quem escreveu a Carta do Descobrimento?",
+    "opcoes": [
+      "Tomé de Sousa",
+      "Pedro Cabral",
+      "Pero Vaz de Caminha"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Em qual ano a capital mudou de Salvador para o Rio?",
+    "opcoes": [
+      "1763",
+      "1808",
+      "1822"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual movimento liderado por Bento Gonçalves durou 10 anos?",
+    "opcoes": [
+      "Revolução Farroupilha",
+      "Sabinada",
+      "Balaiada"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "O que foi a 'Noite das Garrafadas'?",
+    "opcoes": [
+      "Conflito entre brasileiros e portugueses",
+      "Revolta escrava",
+      "Festa real"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Quem foi o mentor da Inconfidência Mineira?",
+    "opcoes": [
+      "Cláudio Manuel da Costa",
+      "Tomás Antônio Gonzaga",
+      "Tiradentes"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual país mediou o reconhecimento da independência brasileira?",
+    "opcoes": [
+      "Estados Unidos",
+      "Inglaterra",
+      "França"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "O que foi o 'Padroado' no Império?",
+    "opcoes": [
+      "Controle do Estado sobre a Igreja",
+      "Estilo de pintura",
+      "Imposto rural"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Quem foi o autor de 'O Guarani'?",
+    "opcoes": [
+      "Castro Alves",
+      "Machado de Assis",
+      "José de Alencar"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual presidente construiu a Belém-Brasília?",
+    "opcoes": [
+      "Juscelino Kubitschek",
+      "Eurico Dutra",
+      "Jânio Quadros"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "O que foi a 'Coluna Prestes'?",
+    "opcoes": [
+      "Monumento",
+      "Movimento político-militar",
+      "Revolta de marinheiros"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual era o lema do governo de JK?",
+    "opcoes": [
+      "50 anos em 5",
+      "Ordem e Progresso",
+      "Ame-o ou deixe-o"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Em que ano ocorreu o Golpe Militar?",
+    "opcoes": [
+      "1930",
+      "1945",
+      "1964"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Quem foi o primeiro presidente civil pós-ditadura?",
+    "opcoes": [
+      "Fernando Collor",
+      "Tancredo Neves",
+      "José Sarney"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual plano acabou com a hiperinflação em 1994?",
+    "opcoes": [
+      "Plano Cruzado",
+      "Plano Bresser",
+      "Plano Real"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Quem foi a primeira mulher presidente do Brasil?",
+    "opcoes": [
+      "Marta Suplicy",
+      "Marina Silva",
+      "Dilma Rousseff"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "O que marcou o fim da Monarquia?",
+    "opcoes": [
+      "Proclamação da República",
+      "Morte de D. Pedro II",
+      "Guerra do Paraguai"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "O que era a 'Política do Café com Leite'?",
+    "opcoes": [
+      "Plano de exportação",
+      "Dieta da época",
+      "Acordo entre SP e MG"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Quem liderou a Revolta da Chibata?",
+    "opcoes": [
+      "Antônio Conselheiro",
+      "João Cândido",
+      "Luís Carlos Prestes"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual foi a causa da Revolta da Vacina?",
+    "opcoes": [
+      "Obrigatoriedade da vacinação",
+      "Preço dos remédios",
+      "Falta de hospitais"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Onde ocorreu a Guerra de Canudos?",
+    "opcoes": [
+      "Pampas gaúchos",
+      "Sertão da Bahia",
+      "Interior de Minas"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Quem era o 'Condestável do Império'?",
+    "opcoes": [
+      "José Bonifácio",
+      "Duque de Caxias",
+      "Barão de Mauá"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Nome da primeira constituição do Brasil?",
+    "opcoes": [
+      "Constituição de 1891",
+      "Constituição de 1988",
+      "Constituição de 1824"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "O que foi o 'Dia do Fico'?",
+    "opcoes": [
+      "D. Pedro I decide ficar no Brasil",
+      "Início da República",
+      "Fim da escravidão"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Quem foi o Barão de Mauá?",
+    "opcoes": [
+      "General",
+      "Industrial e banqueiro",
+      "Político republicano"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Imposto sobre a circulação de ouro em pó?",
+    "opcoes": [
+      "Capitação",
+      "Finta",
+      "Derrama"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Cidade sede da Corte Portuguesa em 1808?",
+    "opcoes": [
+      "Salvador",
+      "Rio de Janeiro",
+      "São Paulo"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "O que foi a 'Confederação do Equador'?",
+    "opcoes": [
+      "Movimento separatista no Nordeste",
+      "Acordo comercial",
+      "Guerra contra o Peru"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Quem foi o principal líder da Sabinada?",
+    "opcoes": [
+      "Bento Gonçalves",
+      "Francisco Sabino",
+      "Manuel Congo"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Em que ano a Família Real chegou ao Brasil?",
+    "opcoes": [
+      "1808",
+      "1821",
+      "1800"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Nome do sistema de trabalho forçado de indígenas?",
+    "opcoes": [
+      "Escambo",
+      "Mita",
+      "Encomienda"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Presidente durante a construção da Itaipu?",
+    "opcoes": [
+      "João Figueiredo",
+      "Emílio Médici",
+      "Ernesto Geisel"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Movimento que pedia eleições diretas em 1984?",
+    "opcoes": [
+      "Passe Livre",
+      "Diretas Já",
+      "Cara Pintada"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Quem foi o herói da Batalha do Riachuelo?",
+    "opcoes": [
+      "Duque de Caxias",
+      "General Osório",
+      "Almirante Barroso"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual o nome do primeiro jornal do Brasil?",
+    "opcoes": [
+      "Correio Braziliense",
+      "O Estado de S. Paulo",
+      "Gazeta do Rio de Janeiro"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Quem assinou o Tratado de Petrópolis (Acre)?",
+    "opcoes": [
+      "Barão do Rio Branco",
+      "Ruy Barbosa",
+      "Joaquim Nabuco"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "O que foi o AI-5 na ditadura?",
+    "opcoes": [
+      "Lei trabalhista",
+      "Ajuda econômica",
+      "Ato institucional severo"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Quem era conhecido como 'O Pequeno Polegar'?",
+    "opcoes": [
+      "Jânio Quadros",
+      "Adhemar de Barros",
+      "Lacerda"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual era a moeda do Brasil antes do Real?",
+    "opcoes": [
+      "Cruzado",
+      "Cruzeiro Real",
+      "Cruzeiro"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "O que defendiam os 'Liberais Exaltados'?",
+    "opcoes": [
+      "Monarquia",
+      "Autonomia das províncias",
+      "Retorno de D. João VI"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Responsável pela reforma urbana do Rio no séc. XX?",
+    "opcoes": [
+      "Pereira Passos",
+      "Carlos Lacerda",
+      "Osvaldo Cruz"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual capitania foi a mais próspera no início?",
+    "opcoes": [
+      "Ilhéus",
+      "São Vicente",
+      "Pernambuco"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Quem eram os 'Mascates' em Pernambuco?",
+    "opcoes": [
+      "Comerciantes de Recife",
+      "Senhores de engenho",
+      "Soldados"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Revolta do Período Regencial ocorrida no Pará?",
+    "opcoes": [
+      "Sabinada",
+      "Cabanagem",
+      "Balaiada"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Em qual governo foi criada a Petrobras?",
+    "opcoes": [
+      "Vargas",
+      "JK",
+      "Dutra"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Autor do 'Manifesto Antropofágico'?",
+    "opcoes": [
+      "Anita Malfatti",
+      "Tarsila do Amaral",
+      "Oswald de Andrade"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Quem o Brasil apoiou na 2ª Guerra Mundial?",
+    "opcoes": [
+      "Itália",
+      "Estados Unidos",
+      "Alemanha"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "O que foi o 'Queremismo'?",
+    "opcoes": [
+      "Campanha do café",
+      "Volta de D. Pedro II",
+      "Permanência de Vargas"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Quem renunciou à presidência após 7 meses?",
+    "opcoes": [
+      "Jânio Quadros",
+      "João Goulart",
+      "Collor"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Tratado que deu o território de Sete Povos?",
+    "opcoes": [
+      "Tratado de Badajoz",
+      "Tratado de Madri",
+      "Tratado de Utrecht"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Quem foi o 'Mártir da Independência'?",
+    "opcoes": [
+      "Bento Gonçalves",
+      "Tiradentes",
+      "Frei Caneca"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Atividade econômica do Segundo Reinado?",
+    "opcoes": [
+      "Café",
+      "Mineração",
+      "Indústria"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Quem era o 'Boca do Inferno'?",
+    "opcoes": [
+      "Padre Vieira",
+      "Botelho de Oliveira",
+      "Gregório de Matos"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Ano em que o tráfico negreiro foi proibido no Brasil?",
+    "opcoes": [
+      "1871",
+      "1831",
+      "1850"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "O que foi la 'Lei do Ventre Livre'?",
+    "opcoes": [
+      "Proibia o tráfico",
+      "Libertava idosos",
+      "Libertava filhos de escravas"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Quem foi o líder da Balaiada no Maranhão?",
+    "opcoes": [
+      "Manuel dos Anjos",
+      "Bento Gonçalves",
+      "Felipe dos Santos"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Causa da Guerra da Cisplatina?",
+    "opcoes": [
+      "Disputa pelo Paraguai",
+      "Divisão de Minas",
+      "Disputa pelo Uruguai"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Parlamentarismo às avessas?",
+    "opcoes": [
+      "Poder total do povo",
+      "Fim das eleições",
+      "Imperador sobre Parlamento"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Quem foi o arquiteto de Brasília?",
+    "opcoes": [
+      "Oscar Niemeyer",
+      "Burle Marx",
+      "Lúcio Costa"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual presidente instituiu o Cruzeiro?",
+    "opcoes": [
+      "JK",
+      "Vargas",
+      "Dutra"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Crise econômica inicial da República?",
+    "opcoes": [
+      "Abertura dos portos",
+      "Encilhamento",
+      "Corrida do ouro"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Quem eram os 'Coroneis' na República Velha?",
+    "opcoes": [
+      "Delegados",
+      "Generais",
+      "Grandes latifundiários"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Estopim da 1ª Guerra para o Brasil?",
+    "opcoes": [
+      "Pedido da França",
+      "Ataque a navios brasileiros",
+      "Invasão de fronteiras"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Primeira mulher eleita deputada?",
+    "opcoes": [
+      "Bertha Lutz",
+      "Pagu",
+      "Carlota de Queirós"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Governo que instituiu o voto feminino?",
+    "opcoes": [
+      "Getúlio Vargas",
+      "Dutra",
+      "Washington Luís"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Revolta do Forte de Copacabana foi parte do?",
+    "opcoes": [
+      "Revolta da vacina",
+      "Ataque estrangeiro",
+      "Tenentismo"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Quem foi o vice de JK?",
+    "opcoes": [
+      "Tancredo Neves",
+      "João Goulart",
+      "Jânio Quadros"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Operação que derrubou João Goulart?",
+    "opcoes": [
+      "Operação Limpeza",
+      "Operação Brother Sam",
+      "Operação Condor"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Maior quilombo da história do Brasil?",
+    "opcoes": [
+      "Quilombo do Jabaquara",
+      "Quilombo de Campo Grande",
+      "Quilombo de Palmares"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Quem descobriu o Rio Amazonas?",
+    "opcoes": [
+      "Lope de Aguirre",
+      "Vicente Pinzón",
+      "Orellana"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Primeiro engenho de açúcar do Brasil?",
+    "opcoes": [
+      "São Jorge dos Erasmos",
+      "Engenho Real",
+      "Engenho do Governador"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Expulsão dos holandeses deveu-se à?",
+    "opcoes": [
+      "Revolta de Beckman",
+      "Insurreição Pernambucana",
+      "Guerra dos Emboabas"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "O que foi a 'Lei de Terras' de 1850?",
+    "opcoes": [
+      "Divisão igualitária",
+      "Terra só por compra",
+      "Terra grátis para imigrantes"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Cidade destruída na Guerra de Canudos?",
+    "opcoes": [
+      "Juazeiro",
+      "Petrolina",
+      "Belo Monte"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Mediador da Questão Christie?",
+    "opcoes": [
+      "Presidente dos EUA",
+      "Papa",
+      "Rei da Bélgica"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Qual o ano do atual Código Civil?",
+    "opcoes": [
+      "1916",
+      "1988",
+      "2002"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Quem instituiu o Estado Novo?",
+    "opcoes": [
+      "Costa e Silva",
+      "Getúlio Vargas",
+      "Castelo Branco"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Autor da música do Hino Nacional?",
+    "opcoes": [
+      "Dom Pedro I",
+      "Francisco Manuel da Silva",
+      "Duque-Estrada"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Início da Nova República?",
+    "opcoes": [
+      "1964",
+      "1985",
+      "1930"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Líder indígena na Confederação dos Tamoios?",
+    "opcoes": [
+      "Arariboia",
+      "Cunhambebe",
+      "Tibiriçá"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Tratado que encerrou a Guerra do Paraguai?",
+    "opcoes": [
+      "Tratado de Aliança",
+      "Tratado de Loizaga-Cotegipe",
+      "Tratado de Assunção"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Qual destes foi um presidente militar?",
+    "opcoes": [
+      "Sarney",
+      "Castelo Branco",
+      "Collor"
+    ],
+    "correta": 2
+  },
+  {
+    "pergunta": "Estado onde nasceu a Revolução Farroupilha?",
+    "opcoes": [
+      "Paraná",
+      "Santa Catarina",
+      "Rio Grande do Sul"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "Quem foi o último Imperador do Brasil?",
+    "opcoes": [
+      "Dom Pedro II",
+      "Dom Pedro I",
+      "Dom João VI"
+    ],
+    "correta": 1
+  }
+]
