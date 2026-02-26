@@ -98,5 +98,5 @@
   {"pergunta":"O que é um telescópio?","opcoes":["Ver o pequeno","Ouvir o longe","Ver o distante"],"correta":3},
   {"pergunta":"Qual a velocidade da luz (aprox)?","opcoes":["300 mil km/s","1000 km/h","300 km/s"],"correta":1},
   {"pergunta":"O que é a herança genética?","opcoes":["Dinheiro","Traços dos pais","Educação"],"correta":2},
-  {"pergunta":"quem foi o gênio que criou esse jogo?","opcoes":["yan","abraâo","mirelly"],"correta":3}
+  {"pergunta":"quem foi o gênio que criou esse jogo?","opcoes":["yan","abraâo","mirelly"],"correta":1}
 ]
