@@ -1,0 +1,49 @@
+[
+{"pergunta":"Um produto custa R$500. Sofre desconto de 20% e depois aumento de 10%. Qual o preço final?","opcoes":["R$440","R$450","R$480"],"correta":1},
+{"pergunta":"Um carro percorre 300 km em 5 h e depois 180 km em 3 h. Qual a velocidade média total?","opcoes":["58 km/h","60 km/h","62 km/h"],"correta":2},
+{"pergunta":"Uma caixa tem bolas na razão 4:6. Se há 50 bolas, quantas são do primeiro tipo?","opcoes":["18","20","24"],"correta":2},
+
+{"pergunta":"Uma torneira enche um tanque em 6 h e outra em 9 h. Juntas, quanto tempo levam?","opcoes":["3h36min","3h","4h"],"correta":1},
+{"pergunta":"Um capital de R$2.400 rende juros simples de 5% ao mês por 4 meses. Qual o montante?","opcoes":["R$2.880","R$2.860","R$2.900"],"correta":1},
+{"pergunta":"Um número somado ao seu quádruplo resulta em 125. Qual é o número?","opcoes":["20","25","30"],"correta":2},
+
+{"pergunta":"Uma escola tem 720 alunos. 5/12 participam de um projeto. Quantos alunos participam?","opcoes":["280","300","320"],"correta":2},
+{"pergunta":"Um ciclista percorre 3/5 do trajeto e depois mais 18 km, totalizando 48 km. Qual é o trajeto total?","opcoes":["70 km","80 km","90 km"],"correta":3},
+{"pergunta":"Um retângulo tem perímetro 84 cm e largura 18 cm. Qual é a área?","opcoes":["360","432","504"],"correta":2},
+
+{"pergunta":"Um relógio atrasa 90 s por hora. Em 6 horas reais, quanto atrasa?","opcoes":["7 min","9 min","6 min"],"correta":1},
+{"pergunta":"Um número aumentado em 25% resulta em 500. Qual era o número inicial?","opcoes":["380","400","420"],"correta":2},
+{"pergunta":"Uma loja compra um produto por R$240 e vende com lucro de 30%. Qual o preço de venda?","opcoes":["R$300","R$312","R$320"],"correta":2},
+
+{"pergunta":"Se 4 operários constroem um muro em 15 dias, quantos dias 10 operários levarão?","opcoes":["6","8","10"],"correta":2},
+{"pergunta":"Um reservatório tem 75% de 2.000 L. Quantos litros faltam para encher?","opcoes":["400","450","500"],"correta":3},
+{"pergunta":"Um número elevado ao quadrado menos 16 resulta em 9. Qual é o número?","opcoes":["±5","±4","±3"],"correta":3},
+
+{"pergunta":"Uma pessoa percorre 2/3 do caminho e depois mais 12 km, totalizando 36 km. Qual é o percurso total?","opcoes":["36","42","48"],"correta":2},
+{"pergunta":"Uma prova tem 60 questões. Cada erro tira 0,5 ponto. Se o aluno errou 14, qual a nota?","opcoes":["46","53","53"],"correta":2},
+{"pergunta":"Um caminhão percorre 240 km com 40 L. Quantos km percorre com 75 L?","opcoes":["420","450","480"],"correta":2},
+
+{"pergunta":"Um número dividido por 6 somado com 8 resulta em 28. Qual é o número?","opcoes":["96","120","108"],"correta":3},
+{"pergunta":"Uma piscina é cheia por uma bomba em 10 h e outra em 15 h. Juntas, quanto tempo levam?","opcoes":["6h","6h40min","7h30min"],"correta":2},
+{"pergunta":"Uma fábrica produz 360 peças em 6 h. Quantas produz em 10 h?","opcoes":["540","600","650"],"correta":2},
+
+{"pergunta":"Um terreno mede 32 m por 18 m. Qual o perímetro?","opcoes":["100","104","108"],"correta":3},
+{"pergunta":"Um número somado com 40% dele resulta em 420. Qual é o número?","opcoes":["280","300","320"],"correta":2},
+{"pergunta":"Um trem percorre 3/4 da viagem e depois mais 30 km, totalizando 150 km. Qual o percurso total?","opcoes":["160","180","200"],"correta":2},
+
+{"pergunta":"Um produto sofre dois descontos sucessivos de 10%. O desconto total aproximado é:","opcoes":["19%","20%","21%"],"correta":1},
+{"pergunta":"Se 12 máquinas produzem 720 peças em 6 h, quantas produzem 8 máquinas em 9 h?","opcoes":["720","800","960"],"correta":1},
+{"pergunta":"Um número menos sua terça parte é igual a 40. Qual é o número?","opcoes":["60","72","80"],"correta":3},
+
+{"pergunta":"Uma escada tem 15 degraus de 18 cm cada. Qual a altura total?","opcoes":["2,5 m","2,7 m","2,9 m"],"correta":2},
+{"pergunta":"Um reservatório perde 12% de 2.500 L. Quantos litros restam?","opcoes":["2.100","2.200","2.300"],"correta":3},
+{"pergunta":"Um carro faz 15 km/L. Quantos litros são necessários para percorrer 270 km?","opcoes":["16","18","20"],"correta":2},
+
+{"pergunta":"Um número somado ao seu triplo é 96. Qual é o número?","opcoes":["20","24","28"],"correta":2},
+{"pergunta":"Uma mercadoria de R$800 é vendida com prejuízo de 15%. Qual o preço de venda?","opcoes":["R$680","R$700","R$720"],"correta":1},
+{"pergunta":"Um terreno quadrado tem área de 400 m². Qual o perímetro?","opcoes":["80","90","100"],"correta":1},
+
+{"pergunta":"Uma pessoa anda 40% de um caminho e depois mais 18 km, totalizando 48 km. Qual o caminho total?","opcoes":["60","70","80"],"correta":1},
+{"pergunta":"Uma máquina faz 1 peça em 3 min. Quantas faz em 2 h?","opcoes":["30","35","40"],"correta":1},
+{"pergunta":"Um número é tal que 25% dele é 45. Qual é o número?","opcoes":["160","180","200"],"correta":2}
+]

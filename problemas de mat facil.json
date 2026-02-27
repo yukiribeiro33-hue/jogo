@@ -1,0 +1,37 @@
+[
+  {"pergunta":"João tinha 24 balas e deu 9 para um amigo. Com quantas balas ele ficou?","opcoes":["13","15","14"],"correta":2},
+  {"pergunta":"Uma caixa tem 6 pacotes com 8 biscoitos cada. Quantos biscoitos há no total?","opcoes":["42","48","56"],"correta":2},
+  {"pergunta":"Maria comprou um caderno por R$18 e pagou com uma nota de R$50. Quanto recebeu de troco?","opcoes":["32","30","28"],"correta":1},
+  {"pergunta":"Em uma sala há 5 filas com 7 cadeiras em cada uma. Quantas cadeiras há na sala?","opcoes":["30","35","40"],"correta":2},
+  {"pergunta":"Pedro leu 12 páginas pela manhã e 18 à tarde. Quantas páginas ele leu no total?","opcoes":["28","25","30"],"correta":3},
+
+  {"pergunta":"Um ônibus tinha 45 passageiros. Em uma parada desceram 17. Quantos ficaram no ônibus?","opcoes":["28","32","30"],"correta":1},
+  {"pergunta":"Cada caixa tem 10 lápis. Quantos lápis há em 9 caixas?","opcoes":["80","90","100"],"correta":2},
+  {"pergunta":"Um bolo foi dividido igualmente entre 4 pessoas. Se o bolo tem 24 fatias, quantas fatias cada um recebeu?","opcoes":["8","6","4"],"correta":2},
+  {"pergunta":"Uma loja vende camisetas por R$25 cada. Quanto custa comprar 4 camisetas?","opcoes":["90","100","110"],"correta":2},
+  {"pergunta":"Ana tinha R$120 e gastou R$45. Quanto dinheiro sobrou?","opcoes":["85","65","75"],"correta":3},
+
+  {"pergunta":"Um fazendeiro colheu 360 laranjas e colocou em caixas com 12 laranjas cada. Quantas caixas ele usou?","opcoes":["25","30","35"],"correta":2},
+  {"pergunta":"Uma escola tem 8 salas com 30 alunos cada. Quantos alunos há no total?","opcoes":["240","200","280"],"correta":1},
+  {"pergunta":"Carlos percorreu 15 km pela manhã e mais 27 km à tarde. Quantos km ele percorreu ao todo?","opcoes":["40","42","45"],"correta":2},
+  {"pergunta":"Um pacote pesa 2 kg. Qual é o peso de 7 pacotes iguais?","opcoes":["12","14","16"],"correta":2},
+  {"pergunta":"Em um campeonato, cada time joga 3 partidas. Se há 12 times, quantas partidas são jogadas ao todo?","opcoes":["36","30","24"],"correta":1},
+
+  {"pergunta":"Uma pizzaria vendeu 9 pizzas no almoço e 13 no jantar. Quantas pizzas foram vendidas no dia?","opcoes":["20","21","22"],"correta":3},
+  {"pergunta":"Um carro percorre 60 km por hora. Quantos km percorre em 3 horas?","opcoes":["120","180","200"],"correta":2},
+  {"pergunta":"Uma caixa contém 48 bolas divididas igualmente em 6 sacos. Quantas bolas há em cada saco?","opcoes":["6","8","10"],"correta":2},
+  {"pergunta":"Um relógio custa R$240 e será pago em 6 parcelas iguais. Qual o valor de cada parcela?","opcoes":["30","35","40"],"correta":3},
+  {"pergunta":"Uma professora corrigiu 18 provas de manhã e 22 à tarde. Quantas provas ela corrigiu?","opcoes":["38","40","42"],"correta":2},
+
+  {"pergunta":"Uma biblioteca recebeu 125 livros novos e depois mais 75. Quantos livros recebeu ao todo?","opcoes":["180","190","200"],"correta":3},
+  {"pergunta":"Um caminhão transporta 9 caixas com 50 kg cada. Qual o peso total transportado?","opcoes":["400","450","500"],"correta":2},
+  {"pergunta":"Uma padaria vendeu 120 pães pela manhã e 95 à tarde. Quantos pães foram vendidos?","opcoes":["205","215","225"],"correta":2},
+  {"pergunta":"Cada aluno recebeu 4 cadernos. Se há 28 alunos, quantos cadernos foram distribuídos?","opcoes":["112","108","120"],"correta":1},
+  {"pergunta":"Uma estrada tem 360 km e um carro já percorreu 145 km. Quantos km faltam?","opcoes":["215","205","225"],"correta":1},
+
+  {"pergunta":"Um tanque tem capacidade para 500 litros e já possui 325 litros. Quantos litros faltam para encher?","opcoes":["175","185","165"],"correta":1},
+  {"pergunta":"Um cinema tem 15 fileiras com 20 cadeiras cada. Quantas cadeiras há no cinema?","opcoes":["250","300","350"],"correta":2},
+  {"pergunta":"Uma caixa contém 96 bombons divididos igualmente entre 8 crianças. Quantos bombons cada uma recebe?","opcoes":["10","12","14"],"correta":2},
+  {"pergunta":"Um trabalhador ganha R$80 por dia. Quanto ele ganha em 5 dias?","opcoes":["300","350","400"],"correta":3},
+  {"pergunta":"Uma loja tinha 200 produtos e vendeu 87. Quantos restaram?","opcoes":["113","123","133"],"correta":1}
+]
