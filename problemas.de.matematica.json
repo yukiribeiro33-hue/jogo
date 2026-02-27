@@ -39,7 +39,7 @@
 
 {"pergunta":"Um capital de R$3.000 rende 4% ao mês. Qual o rendimento em um mês?","opcoes":["R$100","R$120","R$140"],"correta":2},
 {"pergunta":"Um número somado ao seu dobro resulta em 90. Qual é o número?","opcoes":["25","30","35"],"correta":2},
-{"pergunta":"Uma pessoa caminha 18 km por dia. Quantos km caminha em 7 dias?","opcoes":["108","120","126"],"correta":3}
+{"pergunta":"Uma pessoa caminha 18 km por dia. Quantos km caminha em 7 dias?","opcoes":["108","120","126"],"correta":3},
 
 
 {"pergunta":"Um produto custa R$500. Sofre desconto de 20% e depois aumento de 10%. Qual o preço final?","opcoes":["R$440","R$450","R$480"],"correta":1},
