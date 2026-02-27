@@ -1,0 +1,128 @@
+[
+
+
+{"pergunta":"Um produto de R$600 sofre aumento de 15%. Qual é o novo preço?","opcoes":["R$690","R$720","R$630"],"correta":1},
+{"pergunta":"Um ônibus percorre 180 km em 3 horas. Qual é a velocidade média?","opcoes":["50 km/h","60 km/h","70 km/h"],"correta":2},
+{"pergunta":"Uma caixa contém 3/4 de 80 bolas. Quantas bolas há na caixa?","opcoes":["50","60","70"],"correta":2},
+
+{"pergunta":"Um capital de R$1.000 rende juros simples de 2% ao mês por 5 meses. Qual o juro total?","opcoes":["R$90","R$100","R$110"],"correta":2},
+{"pergunta":"Um terreno tem formato retangular de 20 m por 14 m. Qual é a área?","opcoes":["280","300","320"],"correta":1},
+{"pergunta":"Um número multiplicado por 7 resulta em 161. Qual é esse número?","opcoes":["21","22","23"],"correta":3},
+
+{"pergunta":"Uma torneira despeja 120 litros em 4 minutos. Quantos litros despeja por minuto?","opcoes":["25","30","35"],"correta":2},
+{"pergunta":"Um carro consome 1 litro para cada 12 km. Quantos litros são necessários para 180 km?","opcoes":["12","14","15"],"correta":3},
+{"pergunta":"Uma sala tem 9 fileiras com 8 cadeiras cada. Quantas cadeiras há no total?","opcoes":["64","72","80"],"correta":2},
+
+{"pergunta":"Um número somado à sua metade resulta em 54. Qual é o número?","opcoes":["32","36","40"],"correta":2},
+{"pergunta":"Um relógio adianta 2 minutos a cada hora. Quanto adianta em 5 horas?","opcoes":["8 min","10 min","12 min"],"correta":2},
+{"pergunta":"Uma mercadoria de R$500 é vendida com lucro de 20%. Qual o preço de venda?","opcoes":["R$600","R$620","R$580"],"correta":1},
+
+{"pergunta":"Um reservatório tem capacidade de 1.200 L e está com 65% cheio. Quantos litros há?","opcoes":["760","780","800"],"correta":2},
+{"pergunta":"Se 6 trabalhadores fazem um serviço em 12 dias, quantos dias 4 trabalhadores levarão?","opcoes":["16","18","20"],"correta":1},
+{"pergunta":"Um número menos 30% dele é igual a 70. Qual é o número?","opcoes":["90","100","110"],"correta":2},
+
+{"pergunta":"Uma escada possui 20 degraus de 15 cm cada. Qual a altura total?","opcoes":["3,0 m","2,8 m","2,5 m"],"correta":1},
+{"pergunta":"Um produto sofre dois aumentos sucessivos de 10%. O aumento total aproximado é:","opcoes":["19%","20%","21%"],"correta":3},
+{"pergunta":"Um caminhão percorre 300 km com 50 litros. Quantos km percorre com 80 litros?","opcoes":["460","480","500"],"correta":2},
+
+{"pergunta":"Um quadrado tem lado de 9 cm. Qual é o perímetro?","opcoes":["36","30","32"],"correta":1},
+{"pergunta":"Uma pessoa gastou 2/5 do salário e ainda restaram R$1.800. Qual era o salário?","opcoes":["R$3.000","R$4.500","R$3.600"],"correta":1},
+{"pergunta":"Um número elevado ao cubo resulta em 64. Qual é o número?","opcoes":["2","3","4"],"correta":3},
+
+{"pergunta":"Uma fábrica produz 45 peças por hora. Quantas produz em 8 horas?","opcoes":["340","360","380"],"correta":2},
+{"pergunta":"Um desconto de 25% em um produto de R$200 resulta em qual preço?","opcoes":["R$140","R$150","R$160"],"correta":2},
+{"pergunta":"Um terreno quadrado tem perímetro de 64 m. Qual é a área?","opcoes":["256","196","144"],"correta":3},
+
+{"pergunta":"Um número dividido por 4 somado com 15 resulta em 35. Qual é o número?","opcoes":["60","80","100"],"correta":2},
+{"pergunta":"Um carro percorre 2/3 de um trajeto e depois mais 20 km, totalizando 100 km. Qual é o trajeto total?","opcoes":["120","135","150"],"correta":3},
+{"pergunta":"Uma piscina é esvaziada por uma bomba em 8 horas. Qual fração é esvaziada por hora?","opcoes":["1/6","1/8","1/10"],"correta":2},
+
+{"pergunta":"Um capital de R$3.000 rende 4% ao mês. Qual o rendimento em um mês?","opcoes":["R$100","R$120","R$140"],"correta":2},
+{"pergunta":"Um número somado ao seu dobro resulta em 90. Qual é o número?","opcoes":["25","30","35"],"correta":2},
+{"pergunta":"Uma pessoa caminha 18 km por dia. Quantos km caminha em 7 dias?","opcoes":["108","120","126"],"correta":3}
+
+
+{"pergunta":"Um produto custa R$500. Sofre desconto de 20% e depois aumento de 10%. Qual o preço final?","opcoes":["R$440","R$450","R$480"],"correta":1},
+{"pergunta":"Um carro percorre 300 km em 5 h e depois 180 km em 3 h. Qual a velocidade média total?","opcoes":["58 km/h","60 km/h","62 km/h"],"correta":2},
+{"pergunta":"Uma caixa tem bolas na razão 4:6. Se há 50 bolas, quantas são do primeiro tipo?","opcoes":["18","20","24"],"correta":2},
+
+{"pergunta":"Uma torneira enche um tanque em 6 h e outra em 9 h. Juntas, quanto tempo levam?","opcoes":["3h36min","3h","4h"],"correta":1},
+{"pergunta":"Um capital de R$2.400 rende juros simples de 5% ao mês por 4 meses. Qual o montante?","opcoes":["R$2.880","R$2.860","R$2.900"],"correta":1},
+{"pergunta":"Um número somado ao seu quádruplo resulta em 125. Qual é o número?","opcoes":["20","25","30"],"correta":2},
+
+{"pergunta":"Uma escola tem 720 alunos. 5/12 participam de um projeto. Quantos alunos participam?","opcoes":["280","300","320"],"correta":2},
+{"pergunta":"Um ciclista percorre 3/5 do trajeto e depois mais 18 km, totalizando 48 km. Qual é o trajeto total?","opcoes":["70 km","80 km","90 km"],"correta":3},
+{"pergunta":"Um retângulo tem perímetro 84 cm e largura 18 cm. Qual é a área?","opcoes":["360","432","504"],"correta":2},
+
+{"pergunta":"Um relógio atrasa 90 s por hora. Em 6 horas reais, quanto atrasa?","opcoes":["7 min","9 min","6 min"],"correta":1},
+{"pergunta":"Um número aumentado em 25% resulta em 500. Qual era o número inicial?","opcoes":["380","400","420"],"correta":2},
+{"pergunta":"Uma loja compra um produto por R$240 e vende com lucro de 30%. Qual o preço de venda?","opcoes":["R$300","R$312","R$320"],"correta":2},
+
+{"pergunta":"Se 4 operários constroem um muro em 15 dias, quantos dias 10 operários levarão?","opcoes":["6","8","10"],"correta":2},
+{"pergunta":"Um reservatório tem 75% de 2.000 L. Quantos litros faltam para encher?","opcoes":["400","450","500"],"correta":3},
+{"pergunta":"Um número elevado ao quadrado menos 16 resulta em 9. Qual é o número?","opcoes":["±5","±4","±3"],"correta":3},
+
+{"pergunta":"Uma pessoa percorre 2/3 do caminho e depois mais 12 km, totalizando 36 km. Qual é o percurso total?","opcoes":["36","42","48"],"correta":2},
+{"pergunta":"Uma prova tem 60 questões. Cada erro tira 0,5 ponto. Se o aluno errou 14, qual a nota?","opcoes":["46","53","53"],"correta":2},
+{"pergunta":"Um caminhão percorre 240 km com 40 L. Quantos km percorre com 75 L?","opcoes":["420","450","480"],"correta":2},
+
+{"pergunta":"Um número dividido por 6 somado com 8 resulta em 28. Qual é o número?","opcoes":["96","120","108"],"correta":3},
+{"pergunta":"Uma piscina é cheia por uma bomba em 10 h e outra em 15 h. Juntas, quanto tempo levam?","opcoes":["6h","6h40min","7h30min"],"correta":2},
+{"pergunta":"Uma fábrica produz 360 peças em 6 h. Quantas produz em 10 h?","opcoes":["540","600","650"],"correta":2},
+
+{"pergunta":"Um terreno mede 32 m por 18 m. Qual o perímetro?","opcoes":["100","104","108"],"correta":3},
+{"pergunta":"Um número somado com 40% dele resulta em 420. Qual é o número?","opcoes":["280","300","320"],"correta":2},
+{"pergunta":"Um trem percorre 3/4 da viagem e depois mais 30 km, totalizando 150 km. Qual o percurso total?","opcoes":["160","180","200"],"correta":2},
+
+{"pergunta":"Um produto sofre dois descontos sucessivos de 10%. O desconto total aproximado é:","opcoes":["19%","20%","21%"],"correta":1},
+{"pergunta":"Se 12 máquinas produzem 720 peças em 6 h, quantas produzem 8 máquinas em 9 h?","opcoes":["720","800","960"],"correta":1},
+{"pergunta":"Um número menos sua terça parte é igual a 40. Qual é o número?","opcoes":["60","72","80"],"correta":3},
+
+{"pergunta":"Uma escada tem 15 degraus de 18 cm cada. Qual a altura total?","opcoes":["2,5 m","2,7 m","2,9 m"],"correta":2},
+{"pergunta":"Um reservatório perde 12% de 2.500 L. Quantos litros restam?","opcoes":["2.100","2.200","2.300"],"correta":3},
+{"pergunta":"Um carro faz 15 km/L. Quantos litros são necessários para percorrer 270 km?","opcoes":["16","18","20"],"correta":2},
+
+{"pergunta":"Um número somado ao seu triplo é 96. Qual é o número?","opcoes":["20","24","28"],"correta":2},
+{"pergunta":"Uma mercadoria de R$800 é vendida com prejuízo de 15%. Qual o preço de venda?","opcoes":["R$680","R$700","R$720"],"correta":1},
+{"pergunta":"Um terreno quadrado tem área de 400 m². Qual o perímetro?","opcoes":["80","90","100"],"correta":1},
+
+{"pergunta":"Uma pessoa anda 40% de um caminho e depois mais 18 km, totalizando 48 km. Qual o caminho total?","opcoes":["60","70","80"],"correta":1},
+{"pergunta":"Uma máquina faz 1 peça em 3 min. Quantas faz em 2 h?","opcoes":["30","35","40"],"correta":1},
+{"pergunta":"Um número é tal que 25% dele é 45. Qual é o número?","opcoes":["160","180","200"],"correta":2},
+
+  {"pergunta":"João tinha 24 balas e deu 9 para um amigo. Com quantas balas ele ficou?","opcoes":["13","15","14"],"correta":2},
+  {"pergunta":"Uma caixa tem 6 pacotes com 8 biscoitos cada. Quantos biscoitos há no total?","opcoes":["42","48","56"],"correta":2},
+  {"pergunta":"Maria comprou um caderno por R$18 e pagou com uma nota de R$50. Quanto recebeu de troco?","opcoes":["32","30","28"],"correta":1},
+  {"pergunta":"Em uma sala há 5 filas com 7 cadeiras em cada uma. Quantas cadeiras há na sala?","opcoes":["30","35","40"],"correta":2},
+  {"pergunta":"Pedro leu 12 páginas pela manhã e 18 à tarde. Quantas páginas ele leu no total?","opcoes":["28","25","30"],"correta":3},
+
+  {"pergunta":"Um ônibus tinha 45 passageiros. Em uma parada desceram 17. Quantos ficaram no ônibus?","opcoes":["28","32","30"],"correta":1},
+  {"pergunta":"Cada caixa tem 10 lápis. Quantos lápis há em 9 caixas?","opcoes":["80","90","100"],"correta":2},
+  {"pergunta":"Um bolo foi dividido igualmente entre 4 pessoas. Se o bolo tem 24 fatias, quantas fatias cada um recebeu?","opcoes":["8","6","4"],"correta":2},
+  {"pergunta":"Uma loja vende camisetas por R$25 cada. Quanto custa comprar 4 camisetas?","opcoes":["90","100","110"],"correta":2},
+  {"pergunta":"Ana tinha R$120 e gastou R$45. Quanto dinheiro sobrou?","opcoes":["85","65","75"],"correta":3},
+
+  {"pergunta":"Um fazendeiro colheu 360 laranjas e colocou em caixas com 12 laranjas cada. Quantas caixas ele usou?","opcoes":["25","30","35"],"correta":2},
+  {"pergunta":"Uma escola tem 8 salas com 30 alunos cada. Quantos alunos há no total?","opcoes":["240","200","280"],"correta":1},
+  {"pergunta":"Carlos percorreu 15 km pela manhã e mais 27 km à tarde. Quantos km ele percorreu ao todo?","opcoes":["40","42","45"],"correta":2},
+  {"pergunta":"Um pacote pesa 2 kg. Qual é o peso de 7 pacotes iguais?","opcoes":["12","14","16"],"correta":2},
+  {"pergunta":"Em um campeonato, cada time joga 3 partidas. Se há 12 times, quantas partidas são jogadas ao todo?","opcoes":["36","30","24"],"correta":1},
+
+  {"pergunta":"Uma pizzaria vendeu 9 pizzas no almoço e 13 no jantar. Quantas pizzas foram vendidas no dia?","opcoes":["20","21","22"],"correta":3},
+  {"pergunta":"Um carro percorre 60 km por hora. Quantos km percorre em 3 horas?","opcoes":["120","180","200"],"correta":2},
+  {"pergunta":"Uma caixa contém 48 bolas divididas igualmente em 6 sacos. Quantas bolas há em cada saco?","opcoes":["6","8","10"],"correta":2},
+  {"pergunta":"Um relógio custa R$240 e será pago em 6 parcelas iguais. Qual o valor de cada parcela?","opcoes":["30","35","40"],"correta":3},
+  {"pergunta":"Uma professora corrigiu 18 provas de manhã e 22 à tarde. Quantas provas ela corrigiu?","opcoes":["38","40","42"],"correta":2},
+
+  {"pergunta":"Uma biblioteca recebeu 125 livros novos e depois mais 75. Quantos livros recebeu ao todo?","opcoes":["180","190","200"],"correta":3},
+  {"pergunta":"Um caminhão transporta 9 caixas com 50 kg cada. Qual o peso total transportado?","opcoes":["400","450","500"],"correta":2},
+  {"pergunta":"Uma padaria vendeu 120 pães pela manhã e 95 à tarde. Quantos pães foram vendidos?","opcoes":["205","215","225"],"correta":2},
+  {"pergunta":"Cada aluno recebeu 4 cadernos. Se há 28 alunos, quantos cadernos foram distribuídos?","opcoes":["112","108","120"],"correta":1},
+  {"pergunta":"Uma estrada tem 360 km e um carro já percorreu 145 km. Quantos km faltam?","opcoes":["215","205","225"],"correta":1},
+
+  {"pergunta":"Um tanque tem capacidade para 500 litros e já possui 325 litros. Quantos litros faltam para encher?","opcoes":["175","185","165"],"correta":1},
+  {"pergunta":"Um cinema tem 15 fileiras com 20 cadeiras cada. Quantas cadeiras há no cinema?","opcoes":["250","300","350"],"correta":2},
+  {"pergunta":"Uma caixa contém 96 bombons divididos igualmente entre 8 crianças. Quantos bombons cada uma recebe?","opcoes":["10","12","14"],"correta":2},
+  {"pergunta":"Um trabalhador ganha R$80 por dia. Quanto ele ganha em 5 dias?","opcoes":["300","350","400"],"correta":3},
+  {"pergunta":"Uma loja tinha 200 produtos e vendeu 87. Quantos restaram?","opcoes":["113","123","133"],"correta":1}
+]
